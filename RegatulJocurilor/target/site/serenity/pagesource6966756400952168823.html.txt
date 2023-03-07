@@ -1,0 +1,1341 @@
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#" lang="en-US"><head>
+<title>Autentificare : Regatul Jocurilor, Board Games, Jocuri de societate (Strategie, Petrecere, De Carti, In Familie, Pe Tabla, In Limba Romana)</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="In Familie Strategie Petrecere De Carti Tematice Cu Reguli Putine Cooperative Pentru Copii 2 jucatori Logice/Abstracte Razboi De Buzunar Incepatori In Limba Romana Extensii Accesorii Magic the Gathering RPGs Puzzle and Hobby LEGO Precomenzi Educative Essen 2019 Pokemon Essen 2022 ecommerce, online shopping, boardgames, board games, card games, games, jocuri, jocuri de societate, jocuri de carti, joc, jocuri de strategie, 
+       petrecere, incepatori, jocuri in romana, jocuri in limba romana, jocuri de logica, jocuri logica, jocuri copii, jocuri pentru copii, jocuri cu zaruri, jocuri tematice, jocuri cu reguli putine, saboteur, saboteur 2, 
+	dixit, dixit odyssey, dixit extensii, dixit journey, catan, reteaua energetica, ticket to ride, power grid, carcassonne, puerto rico, alhambra, stone age, agricola, memoir 44, dominion, jungle speed, dobble, caverna, terra mystica,
+	 tzolkin, regele din tokyo, activity, activity totul e posibil, alias, nu te supara frate, game of thrones the boardgame  Autentificare">
+<meta name="description" content="Regatul Jocurilor : Autentificare - In Familie Strategie Petrecere De Carti Tematice Cu Reguli Putine Cooperative Pentru Copii 2 jucatori Logice/Abstracte Razboi De Buzunar Incepatori In Limba Romana Extensii Accesorii Magic the Gathering RPGs Puzzle and Hobby LEGO Precomenzi Educative Essen 2019 Pokemon Essen 2022 ecommerce, online shopping, boardgames, board games, card games, games, jocuri, jocuri de societate, jocuri de carti, joc, jocuri de strategie, 
+       petrecere, incepatori, jocuri in romana, jocuri in limba romana, jocuri de logica, jocuri logica, jocuri copii, jocuri pentru copii, jocuri cu zaruri, jocuri tematice, jocuri cu reguli putine, saboteur, saboteur 2, 
+	dixit, dixit odyssey, dixit extensii, dixit journey, catan, reteaua energetica, ticket to ride, power grid, carcassonne, puerto rico, alhambra, stone age, agricola, memoir 44, dominion, jungle speed, dobble, caverna, terra mystica,
+	 tzolkin, regele din tokyo, activity, activity totul e posibil, alias, nu te supara frate, game of thrones the boardgame ">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="author" content="Fler &amp; Costi">
+<meta name="generator" content="shopping cart program by Zen Cart">
+<meta name="robots" content="noindex, nofollow">
+
+<base href="http://www.regatuljocurilor.ro/">
+<link rel="canonical" href="http://www.regatuljocurilor.ro/index.php?main_page=login">
+
+
+<meta property="og:title" content="Autentificare : Regatul Jocurilor, Board Games, Jocuri de societate (Strategie, Petrecere, De Carti, In Familie, Pe Tabla, In Limba Romana)">
+<meta property="og:site_name" content="Regatul Jocurilor">
+<meta property="og:url" content="http://www.regatuljocurilor.ro/index.php?main_page=login">
+<meta property="fb:admins" content="100005258739582">
+<meta property="fb:app_id" content="152629171565736">
+<meta property="og:image" content="http://www.regatuljocurilor.ro/images/logo.png">
+<meta property="og:type" content="website">
+
+
+<link rel="stylesheet" type="text/css" media="print" href="includes/templates/abbington_mega/css/print_stylesheet.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/style_dynamic_filter.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/style_imagehover.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_betterCategoriesEzInfo.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_css_buttons.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_dotline.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_footer_menu.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_manufacturers_all.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_mega_menu.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_module_tabs.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_slides.css">
+<link rel="stylesheet" type="text/css" href="/includes/templates/abbington_mega/css/stylesheet_zen_lightbox.css">
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/Km9gKuG06He-isPsP6saG8cn/recaptcha__ro.js" crossorigin="anonymous" integrity="sha384-6h0yN+YiqZbzu20Cu2WWnjw/N3LQn65NlirO9VgnRtkNi9ubTtEQASN41UlFOqEd"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript" src="min/?f=/includes/templates/abbington_mega/jscript/jscript_imagehover.js,/includes/templates/abbington_mega/jscript/jscript_jquery-1.4.4.min.js&amp;1647340134"></script></head><body onload="update_zone(document.create_account); document.login.email_address.focus();" id="loginBody"><div id="trailimageid"></div>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39631008-1']);
+  
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+  
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+
+
+<style type="text/css">
+#abdsg {
+	position:absolute;
+	left:0;
+	top:0;
+	display:none;
+	z-index:9999;
+	width:240px;
+	padding:0;
+	margin:0;
+}
+#abdsg span {
+	display:block;
+	padding:3px 12px;
+	background-color:#fff;
+	opacity:0.9;
+	margin:2px;
+	border:1px solid #ccc;
+	height:50px;
+	overflow:hidden;
+	clear:both;
+	width:100%;
+	cursor:pointer;
+	border-radius:4px;
+}
+#abdsg span.fcsg {
+	border-color:#990;
+	background-color:#ffffcc;
+}
+#abdsg a, #abdsg a:link, #abdsg a:visited {
+	display:table-cell;
+	vertical-align:middle;
+	color:#000;
+	height:50px;
+}
+#abdsg b { color:#c00; }
+</style>
+<script type="text/javascript" src="includes/templates/abbington_mega/jscript/jquery.js"></script>
+<script type="text/javascript" src="includes/templates/abbington_mega/jscript/jscaclist.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+/* Search Suggestions with Images Copyright (c) 2011 Robert Rook (www.advancebydesign.com) */
+var page_half = 0;
+var max_show = 9;
+var c_count = 0;
+var c_sel = 0;
+var c_val = "";
+var c_trans = {"Ά":"α", "ά":"α", "Έ":"ε", "έ":"ε", "Ή":"η", "ή":"η", "Ί":"ι", "Ϊ":"ι", "ί":"ι", "ϊ":"ι", "ΐ":"ι",
+"Ό":"ο", "ό":"ο", "ς":"σ", "Ύ":"υ", "Ϋ":"υ", "ύ":"υ", "ϋ":"υ", "ΰ":"υ", "Ώ":"ω", "ώ":"ω"};
+var actsearch = new Array();
+
+$(function() {
+	$('body').append('<div id="abdsg"></div>');
+	page_half = $('body').width()/2;
+	$('input[name="keyword"]').attr('autocomplete', 'off');
+	
+	for(x in acsearch) {
+		tmp = acsearch[x];
+		for(y in c_trans) { tmp = tmp.replace(new RegExp(y, "g"), c_trans[y]); }
+		actsearch[x] = tmp;
+	}
+	
+	$('input[name="keyword"]').keyup(function(event) {
+		cval = $(this).val();
+		
+		if(event.which==38 || event.which==40) {
+			if(event.which==38) {
+				c_sel = (c_sel-1<1?c_count:(c_sel-1));
+				$('#abdsg span').removeClass("fcsg");
+				$('#abdsg span').eq(c_sel-1).addClass("fcsg");
+			} else if(event.which==40) {
+				c_sel = (c_sel+1>c_count?1:(c_sel+1));
+				$('#abdsg span').removeClass("fcsg");
+				$('#abdsg span').eq(c_sel-1).addClass("fcsg");
+			}
+			return false;
+		} else if(event.which==13 && c_sel) {
+			window.location.href = $('#abdsg span').eq(c_sel-1).children("a").attr('href');
+			event.preventDefault();
+			return false;
+		}
+		
+		if(cval==c_val) return;
+		for(x in c_trans) { cval = cval.replace(new RegExp(x, "g"), c_trans[x]); }
+		
+		out = '';
+		c_count = 0;
+		c_sel = 0;
+		
+		for(x in acsearch) {
+			nval = a_in_b(cval, acsearch[x]);
+			if(nval!==false) {
+				out+= '<span><a href="'+acurl[x]+'">'+nval+'</a></span>';
+				c_count++;
+				
+				if(c_count>=max_show) break;
+			}
+		}
+		
+		tmp = $(this).offset();
+		pos_left = (tmp.left<page_half?tmp.left:(tmp.left+$(this).outerWidth())-$('#abdsg').outerWidth());
+		pos_top = (tmp.top+$(this).outerHeight());
+		
+		$('#abdsg').html(out).css({"display":"block", "left":pos_left, "top":pos_top});
+		out = '';
+		
+		$('#abdsg span').each(function() {
+			$(this).mouseover(function() {
+				if(c_sel) {
+					$('#abdsg span').eq(c_sel-1).removeClass("fcsg");
+					c_sel = 0;
+				}
+				$(this).addClass("fcsg");
+			});
+			$(this).mouseout(function() { $(this).removeClass("fcsg"); });
+			$(this).mousedown(function() { window.location.href = $(this).children("a").attr('href'); });
+		});
+	}).blur(function() { hide_abdsg(); });
+});
+
+function hide_abdsg() {
+	$('#abdsg').css("display", "none");
+}
+
+function a_in_b(a, b)
+{
+	a2 = a.toLowerCase();
+	b2 = b.toLowerCase();
+	a2 = a2.split(" ");
+	a = a.split(" ");
+	
+	isin = 1;
+	
+	for(d in a2)
+	{
+		if(a2[d].length<1 || a2[d].indexOf("<")!=-1 || a2[d].indexOf(">")!=-1) continue;
+		c = b2.indexOf(a2[d]);
+		if(c==-1) { isin = 0; break; }
+		sub = b.substr(c, a2[d].length);
+		b = b.replace(sub, '<<'+sub+'>>');
+		b2 = b2.replace(a2[d], '<<'+a2[d]+'>>');
+	}
+	b = b.split("<<").join("<b>");
+	b = b.split(">>").join("</b>");
+	
+	return (isin?b:false);
+}
+//]]>
+</script><script language="javascript" type="text/javascript"><!--
+
+function update_zone(theForm) {
+  // if there is no zone_id field to update, or if it is hidden from display, then exit performing no updates
+  if (!theForm || !theForm.elements["zone_id"]) return;
+  if (theForm.zone_id.type == "hidden") return;
+
+  // set initial values
+  var SelectedCountry = theForm.zone_country_id.options[theForm.zone_country_id.selectedIndex].value;
+  var SelectedZone = theForm.elements["zone_id"].value;
+
+  // reset the array of pulldown options so it can be repopulated
+  var NumState = theForm.zone_id.options.length;
+  while(NumState > 0) {
+    NumState = NumState - 1;
+    theForm.zone_id.options[NumState] = null;
+  }
+  // build dynamic list of countries/zones for pulldown
+  if (SelectedCountry == "175") {
+    theForm.zone_id.options[0] = new Option("Selectati ...", "");
+    theForm.zone_id.options[1] = new Option("ALBA", "314");
+    theForm.zone_id.options[2] = new Option("ARAD", "355");
+    theForm.zone_id.options[3] = new Option("ARGES", "315");
+    theForm.zone_id.options[4] = new Option("BACAU", "316");
+    theForm.zone_id.options[5] = new Option("BIHOR", "317");
+    theForm.zone_id.options[6] = new Option("BISTRITA-NASAUD", "318");
+    theForm.zone_id.options[7] = new Option("BOTOSANI", "319");
+    theForm.zone_id.options[8] = new Option("BRAILA", "321");
+    theForm.zone_id.options[9] = new Option("BRASOV", "320");
+    theForm.zone_id.options[10] = new Option("BUCURESTI", "352");
+    theForm.zone_id.options[11] = new Option("BUZAU", "322");
+    theForm.zone_id.options[12] = new Option("CALARASI", "353");
+    theForm.zone_id.options[13] = new Option("CARAS-SEVERIN", "323");
+    theForm.zone_id.options[14] = new Option("CLUJ", "324");
+    theForm.zone_id.options[15] = new Option("CONSTANTA", "325");
+    theForm.zone_id.options[16] = new Option("COVASNA", "326");
+    theForm.zone_id.options[17] = new Option("DIMBOVITA", "327");
+    theForm.zone_id.options[18] = new Option("DOLJ", "328");
+    theForm.zone_id.options[19] = new Option("GALATI", "329");
+    theForm.zone_id.options[20] = new Option("GIURGIU", "354");
+    theForm.zone_id.options[21] = new Option("GORJ", "330");
+    theForm.zone_id.options[22] = new Option("HARGHITA", "331");
+    theForm.zone_id.options[23] = new Option("HUNEDOARA", "332");
+    theForm.zone_id.options[24] = new Option("IALOMITA", "333");
+    theForm.zone_id.options[25] = new Option("IASI", "334");
+    theForm.zone_id.options[26] = new Option("ILFOV", "335");
+    theForm.zone_id.options[27] = new Option("MARAMURES", "336");
+    theForm.zone_id.options[28] = new Option("MEHEDINTI", "337");
+    theForm.zone_id.options[29] = new Option("MURES", "338");
+    theForm.zone_id.options[30] = new Option("NEAMT", "339");
+    theForm.zone_id.options[31] = new Option("OLT", "340");
+    theForm.zone_id.options[32] = new Option("PRAHOVA", "341");
+    theForm.zone_id.options[33] = new Option("Romania", "284");
+    theForm.zone_id.options[34] = new Option("SALAJ", "343");
+    theForm.zone_id.options[35] = new Option("SATU_MARE", "342");
+    theForm.zone_id.options[36] = new Option("Sector 1", "300");
+    theForm.zone_id.options[37] = new Option("Sector 2", "301");
+    theForm.zone_id.options[38] = new Option("Sector 3", "302");
+    theForm.zone_id.options[39] = new Option("Sector 4", "304");
+    theForm.zone_id.options[40] = new Option("Sector 5", "305");
+    theForm.zone_id.options[41] = new Option("Sector 6", "306");
+    theForm.zone_id.options[42] = new Option("SIBIU", "344");
+    theForm.zone_id.options[43] = new Option("SUCEAVA", "345");
+    theForm.zone_id.options[44] = new Option("TELEORMAN", "346");
+    theForm.zone_id.options[45] = new Option("TIMIS", "347");
+    theForm.zone_id.options[46] = new Option("TULCEA", "348");
+    theForm.zone_id.options[47] = new Option("VASLUI", "349");
+    theForm.zone_id.options[48] = new Option("VILCEA", "350");
+    theForm.zone_id.options[49] = new Option("VRANCEA", "351");
+    hideStateField(theForm);
+  } else {
+    theForm.zone_id.options[0] = new Option("Scrieti optiunea mai jos ...", "");
+    showStateField(theForm);
+  }
+
+  // if we had a value before reset, set it again
+  if (SelectedZone != "") theForm.elements["zone_id"].value = SelectedZone;
+
+}
+
+  function hideStateField(theForm) {
+    theForm.state.disabled = true;
+    theForm.state.className = 'hiddenField';
+    theForm.state.setAttribute('className', 'hiddenField');
+    document.getElementById("stateLabel").className = 'hiddenField';
+    document.getElementById("stateLabel").setAttribute('className', 'hiddenField');
+    document.getElementById("stText").className = 'hiddenField';
+    document.getElementById("stText").setAttribute('className', 'hiddenField');
+    document.getElementById("stBreak").className = 'hiddenField';
+    document.getElementById("stBreak").setAttribute('className', 'hiddenField');
+  }
+
+  function showStateField(theForm) {
+    theForm.state.disabled = false;
+    theForm.state.className = 'inputLabel visibleField';
+    theForm.state.setAttribute('className', 'visibleField');
+    document.getElementById("stateLabel").className = 'inputLabel visibleField';
+    document.getElementById("stateLabel").setAttribute('className', 'inputLabel visibleField');
+    document.getElementById("stText").className = 'alert visibleField';
+    document.getElementById("stText").setAttribute('className', 'alert visibleField');
+    document.getElementById("stBreak").className = 'clearBoth visibleField';
+    document.getElementById("stBreak").setAttribute('className', 'clearBoth visibleField');
+  }
+//--></script><script language="javascript" type="text/javascript"><!--
+var selected;
+
+function check_form_optional(form_name) {
+  var form = form_name;
+  if (!form.elements['firstname']) {
+    return true;
+  } else {
+    var firstname = form.elements['firstname'].value;
+    var lastname = form.elements['lastname'].value;
+    var street_address = form.elements['street_address'].value;
+
+    if (firstname == '' && lastname == '' && street_address == '') {
+      return true;
+    } else {
+      return check_form(form_name);
+    }
+  }
+}
+var form = "";
+var submitted = false;
+var error = false;
+var error_message = "";
+
+function check_input(field_name, field_size, message) {
+  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
+    if (field_size == 0) return;
+    var field_value = form.elements[field_name].value;
+
+    if (field_value == '' || field_value.length < field_size) {
+      error_message = error_message + "* " + message + "\n";
+      error = true;
+    }
+  }
+}
+
+function check_radio(field_name, message) {
+  var isChecked = false;
+
+  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
+    var radio = form.elements[field_name];
+
+    for (var i=0; i<radio.length; i++) {
+      if (radio[i].checked == true) {
+        isChecked = true;
+        break;
+      }
+    }
+
+    if (isChecked == false) {
+      error_message = error_message + "* " + message + "\n";
+      error = true;
+    }
+  }
+}
+
+function check_select(field_name, field_default, message) {
+  if (form.elements[field_name] && (form.elements[field_name].type != "hidden")) {
+    var field_value = form.elements[field_name].value;
+
+    if (field_value == field_default) {
+      error_message = error_message + "* " + message + "\n";
+      error = true;
+    }
+  }
+}
+
+function check_password(field_name_1, field_name_2, field_size, message_1, message_2) {
+  if (form.elements[field_name_1] && (form.elements[field_name_1].type != "hidden")) {
+    var password = form.elements[field_name_1].value;
+    var confirmation = form.elements[field_name_2].value;
+
+    if (password == '' || password.length < field_size) {
+      error_message = error_message + "* " + message_1 + "\n";
+      error = true;
+    } else if (password != confirmation) {
+      error_message = error_message + "* " + message_2 + "\n";
+      error = true;
+    }
+  }
+}
+
+function check_password_new(field_name_1, field_name_2, field_name_3, field_size, message_1, message_2, message_3) {
+  if (form.elements[field_name_1] && (form.elements[field_name_1].type != "hidden")) {
+    var password_current = form.elements[field_name_1].value;
+    var password_new = form.elements[field_name_2].value;
+    var password_confirmation = form.elements[field_name_3].value;
+
+    if (password_current == '' ) {
+      error_message = error_message + "* " + message_1 + "\n";
+      error = true;
+    } else if (password_new == '' || password_new.length < field_size) {
+      error_message = error_message + "* " + message_2 + "\n";
+      error = true;
+    } else if (password_new != password_confirmation) {
+      error_message = error_message + "* " + message_3 + "\n";
+      error = true;
+    }
+  }
+}
+
+function check_state(min_length, min_message, select_message) {
+  if (form.elements["state"] && form.elements["zone_id"]) {
+    if (!form.state.disabled && form.zone_id.value == "") check_input("state", min_length, min_message);
+  } else if (form.elements["state"] && form.elements["state"].type != "hidden" && form.state.disabled) {
+    check_select("zone_id", "", select_message);
+  }
+}
+
+function check_form(form_name) {
+  if (submitted == true) {
+    alert("Acest formular a fost deja introdus.Va rugam sa apasati OK si sa asteptati ca procesul sa fie terminat.");
+    return false;
+  }
+
+  error = false;
+  form = form_name;
+  error_message = "Au aparut erori in procesul de inregistrare cont.\n\nVa rugam sa faceti urmatoarele corectari:\n\n";
+
+  check_radio("gender", "Va rugam sa alegeti o forma de adresare.");
+
+  check_input("firstname", 2, "Este prenumele introdus corect? Este nevoie de minim 2 caractere. Va rugam sa incercati din nou.");
+  check_input("lastname", 2, "Este numele de familie introdus corect? Este nevoie de minim 2 caractere. Va rugam sa incercati din nou.");
+
+  check_input("dob", 10, "Data de nastere corecta ? Sistemul nostru cere urmatorul format: ZZ/LL/AAAA (ex 21/05/1985)");
+
+  check_input("email_address", 6, "Este adreasa de email corecta? Trebuie sa contina minim 6 caractere. Va rugam sa incercati din nou.");
+  check_input("street_address", 5, "Adresa trebuie sa contina minim 5 caractere.");
+  check_input("postcode", 4, "Codul postal trebuie sa contina minim 4 caractere.");
+  check_input("city", 2, "Campul oras trebuie sa contina minim 2 caractere.");
+  check_state(2, "Judetul trebuie sa contina minim 2 caractere.", "Selectati un judet");
+
+  check_select("country", "", "Selectati tara.");
+
+  check_input("telephone", 3, "Numarul de telefon trebuie sa contina minim 3 caractere.");
+
+  check_password("password", "confirmation", 7, "Parola trebuie sa contina minim 7 caractere.", "Parola trebuie sa fie identica cu Confirmarea parolei.");
+  check_password_new("password_current", "password_new", "password_confirmation", 7, "Parola trebuie sa contina minim 7 caractere.", "Noua parola trebuie sa contina minim 7 caractere.", "Parola trebuie sa fie identica cu Confirmarea parolei.");
+
+  if (error == true) {
+    alert(error_message);
+    return false;
+  } else {
+    submitted = true;
+    return true;
+  }
+}
+//--></script>
+<script language="javascript" type="text/javascript"><!--
+function session_win() {
+  window.open("http://www.regatuljocurilor.ro/index.php?main_page=info_shopping_cart","info_shopping_cart","height=460,width=430,toolbar=no,statusbar=no,scrollbars=yes").focus();
+}
+//--></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39631008-1', 'regatuljocurilor.ro');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+<div id="mainWrapper">
+
+
+
+<!--bof-header logo and navigation display-->
+
+
+<div id="header-lan-curr">
+<div class="clearBoth"></div>
+</div>
+    
+
+<div id="headerWrapper">
+<!--bof-navigation display-->
+<div id="navMainWrapper">
+<div id="navMain2">
+ <ul class="back">
+       <li class="quicklinks-li"><a href="http://www.regatuljocurilor.ro/"><img src="includes/templates/abbington_mega/images/home.png" alt="home icon" class="home-icon"><b>Acasa</b></a><!-- bof quick links  -->
+       </li><!-- eof quick links -->   
+     </ul>
+</div>
+<div id="navMain">
+
+    <ul class="back">
+    <li><a href="http://www.regatuljocurilor.ro/index.php?main_page=login"><img src="includes/templates/abbington_mega/images/login.png" alt="login icon" class="login-icon">Autentificare/Creare Cont</a></li>
+
+												
+    <li><a href="http://www.regatuljocurilor.ro/shopping_cart.html"><img src="includes/templates/abbington_mega/images/cart.png" alt="cart icon" class="cart-icon">Cos de cumparaturi - 0 produs(e) - 0 RON</a></li>
+    <li><a href="http://www.regatuljocurilor.ro/index.php?main_page=checkout_shipping"><img src="includes/templates/abbington_mega/images/checkout.png" alt="checkout icon" class="checkout-icon"><span class="header-checkout">Finalizare Comanda</span></a></li>
+</ul>
+</div>
+<br class="clearBoth">
+</div>
+<!--eof-navigation display-->
+
+
+
+<!--bof-branding display-->
+<div id="logoWrapper">
+    <div id="logo"><a href="http://www.regatuljocurilor.ro/"><img src="includes/templates/abbington_mega/images/logo.png" alt="Regatul Jocurilor: Magazinul tau de jocuri de societate ( Boardgames )" title=" Regatul Jocurilor: Magazinul tau de jocuri de societate ( Boardgames ) " width="181" height="96"></a>	
+
+    <div id="taglineWrapper">
+      <div id="tagline"></div></div>
+    </div>
+
+
+<div id="header-right">
+<!-- <div id="header-promo"><span class="promo-big">Boardgames</span><br />pentru <span class="promo-red">toata lumea</span></div> -->
+	<div id="banner"><a href="http://www.regatuljocurilor.ro/"><img src="includes/templates/abbington_mega/images/banner.png" alt="Regatul Jocurilor: Magazinul tau de jocuri de societate ( Boardgames )" title=" Regatul Jocurilor: Magazinul tau de jocuri de societate ( Boardgames ) " width="550" height="95"></a>
+<div id="navMainSearch"><form name="quick_find_header" action="http://www.regatuljocurilor.ro/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="0"><input type="text" name="keyword" size="6" class="search-header-box" maxlength="30" value="Cauta..." onfocus="if (this.value == 'Cauta...') this.value = '';" onblur="if (this.value == '') this.value = 'Cauta...';" autocomplete="off">&nbsp;<input type="image" src="includes/templates/abbington_mega/buttons/romana/button_search_header.png" alt="Search" title=" Search "></form></div>
+
+<div class="clearBoth"></div>
+</div>
+
+
+</div>
+
+<br class="clearBoth">
+<!--eof-branding display-->
+
+
+
+
+
+
+<!--eof-header logo and navigation display-->
+
+
+
+<!--bof-optional categories tabs navigation display-->
+<!--eof-optional categories tabs navigation display-->
+
+<!--bof-header ezpage links-->
+<!--eof-header ezpage links-->
+
+</div>
+<!--bof-mega menu display-->
+<!--
+  
+-->
+<div id="mega-wrapper"><!-- bof mega-wrapper -->
+
+    <ul class="mega-menu menu_red"><!-- bof mega-menu -->
+       <!--- fler 19/02/14
+       <li class="quicklinks-li"  ><a href="http://www.regatuljocurilor.ro/">Acasa</a><!-- bof quick links  -->
+        <!--- </li><!-- eof quick links -->
+       <!--bof shop by brand   -->
+     <li class="submenu manufacturers-li"><a href="http://www.regatuljocurilor.ro/specials.html">Promotii</a>
+
+<!-- fler removed manufacturers dropdown for now           
+ <div class="dropdown_1column">
+                <div class="col_1 firstcolumn">
+
+              <ul >
+               		    </ul>
+		</div>
+            </div>
+        </li>
+<!-- eof shop by brand    -->    
+
+        </li><li class="submenu categories-li"><a href="http://www.regatuljocurilor.ro/products_all.html">Board Games</a><!-- bof cateories    -->
+     
+            <div class="dropdown_1column">
+                <div class="col_1 firstcolumn">
+                   <div class="levels">
+                       <ul class="level2"><li>
+<a href="http://www.regatuljocurilor.ro/essen-2022-c-61/">Essen 2022</a></li><li>
+<a href="http://www.regatuljocurilor.ro/essen-2019-c-53/">Essen 2019</a></li><li>
+<a href="http://www.regatuljocurilor.ro/incepatori-c-14/">Incepatori</a></li><li>
+<a href="http://www.regatuljocurilor.ro/in-familie-c-1/">In Familie</a></li><li>
+<a href="http://www.regatuljocurilor.ro/strategie-c-2/">Strategie</a></li><li>
+<a href="http://www.regatuljocurilor.ro/petrecere-c-3/">Petrecere</a></li><li>
+<a href="http://www.regatuljocurilor.ro/2-jucatori-c-9/">2 jucatori</a></li><li>
+<a href="http://www.regatuljocurilor.ro/cu-reguli-putine-c-6/">Cu Reguli Putine</a></li><li>
+<a href="http://www.regatuljocurilor.ro/pentru-copii-c-8/">Pentru Copii</a></li><li>
+<a href="http://www.regatuljocurilor.ro/logiceabstracte-c-10/">Logice/Abstracte</a></li><li>
+<a href="http://www.regatuljocurilor.ro/tematice-c-5/">Tematice</a></li><li>
+<a href="http://www.regatuljocurilor.ro/de-buzunar-c-12/">De Buzunar</a></li><li>
+<a href="http://www.regatuljocurilor.ro/pokemon-c-60/">Pokemon</a></li><li>
+<a href="http://www.regatuljocurilor.ro/de-carti-c-4/">De Carti</a></li><li>
+<a href="http://www.regatuljocurilor.ro/cooperative-c-7/">Cooperative</a></li><li>
+<a href="http://www.regatuljocurilor.ro/razboi-c-11/">Razboi</a></li><li>
+<a href="http://www.regatuljocurilor.ro/rpgs-c-19/">RPGs</a></li><li>
+<a href="http://www.regatuljocurilor.ro/in-limba-romana-c-15/">In Limba Romana</a></li><li class="submenu">
+<a href="http://www.regatuljocurilor.ro/lego-c-26/">LEGO</a><ul class="level3"><li>
+<a href="http://www.regatuljocurilor.ro/lego-architecture-c-26_42/">LEGO Architecture</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-city-c-26_30/">LEGO City</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-classic-c-26_35/">LEGO Classic</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-creator-c-26_37/">LEGO Creator</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-dc-super-heroes-c-26_41/">LEGO DC Super Heroes</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-disney-princess-c-26_34/">LEGO Disney Princess</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-duplo-c-26_32/">LEGO DUPLO</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-friends-c-26_31/">LEGO Friends</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-jurassic-world-c-26_52/">LEGO Jurassic World</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-knights-c-26_58/">LEGO Knights</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-nexo-knights-c-26_40/">LEGO Nexo Knights</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-ninjago-c-26_39/">LEGO Ninjago</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-special-plus-c-26_57/">LEGO Special Plus</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-speed-champions-c-26_38/">LEGO Speed Champions</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-star-wars-c-26_29/">LEGO Star Wars</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-technic-c-26_33/">LEGO Technic</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-the-lego-movie-c-26_54/">LEGO The Lego Movie</a></li><li>
+<a href="http://www.regatuljocurilor.ro/lego-wild-life-c-26_59/">LEGO Wild life</a></li></ul></li><li>
+<a href="http://www.regatuljocurilor.ro/magic-the-gathering-c-18/">Magic the Gathering</a></li><li>
+<a href="http://www.regatuljocurilor.ro/extensii-c-16/">Extensii</a></li><li>
+<a href="http://www.regatuljocurilor.ro/accesorii-c-17/">Accesorii</a></li><li>
+<a href="http://www.regatuljocurilor.ro/educative-c-46/">Educative</a></li><li class="submenu">
+<a href="http://www.regatuljocurilor.ro/puzzle-and-hobby-c-22/">Puzzle and Hobby</a><ul class="level3"><li>
+<a href="http://www.regatuljocurilor.ro/elastice-looms-c-22_23/">Elastice (Looms)</a></li><li>
+<a href="http://www.regatuljocurilor.ro/figurine-c-22_50/">Figurine</a></li><li>
+<a href="http://www.regatuljocurilor.ro/geomag-c-22_48/">Geomag</a></li><li>
+<a href="http://www.regatuljocurilor.ro/kendama-c-22_45/">Kendama</a></li><li>
+<a href="http://www.regatuljocurilor.ro/nisip-colorat-sablimage-c-22_27/">Nisip colorat - Sablimage</a></li><li>
+<a href="http://www.regatuljocurilor.ro/-c-22_49/">Plastilina Inteligentă</a></li><li>
+<a href="http://www.regatuljocurilor.ro/play-doh-c-22_24/">Play Doh</a></li><li>
+<a href="http://www.regatuljocurilor.ro/playmobil-c-22_51/">Playmobil</a></li><li>
+<a href="http://www.regatuljocurilor.ro/puzzle-c-22_25/">Puzzle</a></li><li>
+<a href="http://www.regatuljocurilor.ro/paintingcoloring-c-22_20/">Painting/Coloring</a></li><li>
+<a href="http://www.regatuljocurilor.ro/rubik-c-22_21/">Rubik</a></li><li>
+<a href="http://www.regatuljocurilor.ro/diverse-c-22_47/">Diverse</a></li></ul></li><li>
+<a href="http://www.regatuljocurilor.ro/precomenzi-c-43/">Precomenzi</a></li></ul>                        
+                   </div>   
+                </div>
+               </div>
+        </li><!-- eof categories  -->
+        
+        <!-- bof new products form -->
+        <li class="newproducts-li"><a href="http://www.regatuljocurilor.ro/products_new.html">Produse Noi</a>
+              
+        </li><!-- eof newproducts form -->
+
+        <!-- bof featured/revenite in stoc form -->
+        <li class="restock-li"><a href="http://www.regatuljocurilor.ro/featured_products.html">Revenite in stoc</a>
+              
+        </li><!-- eof featured/revenite form -->
+          <!-- bof manufacturers form -->
+        <li class="manufacturers-li"><a href="http://www.regatuljocurilor.ro/index.php?main_page=manufacturers_all">Producatori</a>
+              
+        </li><!-- eof manufacturers form -->
+        
+                
+	<li class="aboutus-li"><a href="http://www.regatuljocurilor.ro/about_us.html">Despre noi</a><!-- bof about us -->
+                
+            <div class="dropdown_aboutus">
+                    
+                <div class="col_aboutus">
+                    <h2>Bine ati venit!</h2>
+                </div>
+ 
+		<div class="col_cs">
+                     <p class="mega-about"><b>Click pentru detalii. :)</b></p>             
+<a href="http://www.regatuljocurilor.ro/index.php?main_page=redirect&amp;action=banner&amp;goto=16" target="_blank"><img itemprop="image" src="images/banners/aboutus.png" alt="Header About Us Image" title=" Header About Us Image " width="250" height="166"></a><!--                     	<img src="includes/templates/abbington_mega/images/aboutus.png"   class="imgshadow_light aboutus-image" alt="about us"  />    
+-->
+             	</div>
+            </div>
+        </li><!-- eof about us -->
+
+        
+   <!-- <li class="customer_service right"  > <a href="http://www.regatuljocurilor.ro/shippinginfo.html" class="drop">Livrare si plata</a><!-- bof customer service -->
+        
+	<li class="customer_service "> <a href="http://www.regatuljocurilor.ro/shippinginfo.html">Livrare si plata</a><!-- bof customer service -->
+            <div class="dropdown_customer_service align_right">
+           
+                <div class="col_cs">
+                    <h2>Livrare</h2>
+                </div>
+
+                <div class="col_cs">
+      		     <p><b>Modalitati de Livrare:</b><br>
+Livrare in Romania: <br>
+       Livrare in Bucuresti prin curier: <b>9 RON la comenzi sub 100 RON/ Gratis la comenzi peste 100 RON.</b><br>
+       Ridicare Personala de la sediu (specificati in campul de comentarii al comenzii) - <b>Gratis</b><br>
+       Posta Romana - <b>9 RON</b><br>
+       Curier Rapid - <b>9 RON</b><br>
+       Comanda mai mare de <b>149 RON - Livrare Gratis prin curier</b><br><br>
+Livrare internationala:
+<br>Pentru livrare in afara Romaniei consultati calculatorul de tarife al Postei Romane<br><br>
+       <b>Modalitati de plata:</b><br>
+       Ramburs(Numerar)<br>
+       Credit Card(Online)<br>
+       Revolut(Online)<br>
+       Ordin de Plata<br><br>
+       <b>Pentru mai multe detalii apasati pe Livrare si Plata</b> <br><br>
+ </p>             
+                </div>
+       
+                <div class="col_cs">
+                      <h2>Cumparati cu incredere</h2>
+		</div>
+
+		<div class="col_cs">
+                    <img itemprop="image" src="images/banners/payments.png" alt="Header Payments Image" title=" Header Payments Image " width="206" height="43">		      <p class="mega-confidence">Vom face tot posibilul ca experienta dumneavoastra pe site-ul nostru sa fie cat mai placuta si usoara. In curand vom introduce si modalitati de plata online pentru a putea efectua platile cu cardul.</p>             
+                </div>
+      
+            </div><!-- eof customer service -->
+
+	 </li>
+
+          <li class="information-li"> <a href="http://www.regatuljocurilor.ro/shippinginfo2.html">Cum cumpar</a><!-- bof information -->
+ <!--
+	    <div class="dropdown_info">
+        
+		<div class="col_1">
+            	    <h3>Informatii Generale</h3>
+                    <ul>
+			<li><a href="http://www.regatuljocurilor.ro/about_us.html">Despre Noi</a></li>
+                	                	<li><a href="http://www.regatuljocurilor.ro/site_map.html">Harta Site-ului</a></li>
+                	              		                	<li><a href="http://www.regatuljocurilor.ro/gv_faq.html">Certificat Cadou FAQ</a></li>
+                	                	                	<li><a href="http://www.regatuljocurilor.ro/discount_coupon.html">Cupoane de reducere</a></li>
+                	               		                	<li><a href="http://www.regatuljocurilor.ro/index.php?main_page=unsubscribe">Dezabonare Newsletter</a></li>
+                	                     </ul>   
+                 </div>
+    
+		<div class="col_1">
+                     <h3>Clienti</h3>
+                     <ul>
+			                	<li><a href="http://www.regatuljocurilor.ro/index.php?main_page=login">Autentificare/Creare Cont</a></li>
+                	<li><a href="http://www.regatuljocurilor.ro/index.php?main_page=create_account">Creaza Cont</a></li>
+                	                    	<li><a href="http://www.regatuljocurilor.ro/contact_us.html">Contact</a></li>
+                                        	<li><a href="http://www.regatuljocurilor.ro/shippinginfo.html">Livrare &amp; Plata</a></li>
+                                                                	<li><a href="http://www.regatuljocurilor.ro/privacy.html">Politica de Confidentialitate</a></li>
+                                                                	<li><a href="http://www.regatuljocurilor.ro/conditions.html">Conditii de utilizare</a></li>
+                                             </ul>   
+                 </div>
+
+            	 <div class="col_1">
+                      <h3>Linkuri Utile</h3>
+		      <ul> 
+		      		      </ul>
+            	 </div>
+           </div>
+-->
+  	</li><!-- eof information -->
+ 
+    
+        <li class="contactus-li"><a href="http://www.regatuljocurilor.ro/contact_us.html">Contact</a><!-- bof contact form -->
+              
+        </li><!-- eof contact form -->
+    
+    </ul><!-- eof mega-menu -->
+
+</div><!-- eof mega-wrapper -->
+<!--eof-mega menu display-->
+<div class="clearBoth"></div>
+
+
+
+<table id="contentMainWrapper" width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+
+ <td id="navColumnOne" class="columnLeft" style="width: 185px">
+<div id="navColumnOneWrapper" style="width: 180px"><!--// bof: categories //-->
+<div class="leftBoxContainer" id="categories" style="width: 180px">
+<h3 class="leftBoxHeading" id="categoriesHeading">Categorii de Jocuri:</h3>
+<div id="categoriesContent" class="sideBoxContent">
+<div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/essen-2022-c-61/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Essen 2022&nbsp;(41)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/essen-2019-c-53/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Essen 2019&nbsp;(126)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/incepatori-c-14/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Incepatori&nbsp;(520)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/in-familie-c-1/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">In Familie&nbsp;(1837)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/strategie-c-2/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Strategie&nbsp;(2154)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/petrecere-c-3/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Petrecere&nbsp;(978)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/2-jucatori-c-9/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">2 jucatori&nbsp;(186)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/cu-reguli-putine-c-6/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Cu Reguli Putine&nbsp;(304)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/pentru-copii-c-8/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Pentru Copii&nbsp;(1006)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/logiceabstracte-c-10/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Logice/Abstracte&nbsp;(406)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/tematice-c-5/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Tematice&nbsp;(925)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/de-buzunar-c-12/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">De Buzunar&nbsp;(433)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/pokemon-c-60/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Pokemon&nbsp;(59)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/de-carti-c-4/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">De Carti&nbsp;(625)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/cooperative-c-7/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Cooperative&nbsp;(310)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/razboi-c-11/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Razboi&nbsp;(217)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/rpgs-c-19/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">RPGs&nbsp;(39)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/in-limba-romana-c-15/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">In Limba Romana&nbsp;(276)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/lego-c-26/"><img src="includes/templates/abbington_mega/images/bc_cat_pointer_right.gif" alt="" width="9" height="5">LEGO-&gt;&nbsp;(135)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/magic-the-gathering-c-18/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Magic the Gathering&nbsp;(12)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/extensii-c-16/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Extensii&nbsp;(2571)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/accesorii-c-17/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Accesorii&nbsp;(901)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/educative-c-46/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Educative&nbsp;(78)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/puzzle-and-hobby-c-22/"><img src="includes/templates/abbington_mega/images/bc_cat_pointer_right.gif" alt="" width="9" height="5">Puzzle and Hobby-&gt;&nbsp;(526)</a></div><div class="betterCategories"><a class="category-top" href="http://www.regatuljocurilor.ro/precomenzi-c-43/"><img src="includes/templates/abbington_mega/images/bc_cat_no_sub.gif" alt="" width="9" height="5">Precomenzi&nbsp;(105)</a></div><div class="betterCategories"><a class="category-links" href="http://www.regatuljocurilor.ro/products_all.html"><img src="includes/templates/abbington_mega/images/bc_cat_boxes.gif" alt="" width="9" height="5">Toate Produsele ...</a></div></div></div>
+<!--// eof: categories //-->
+
+</div></td>
+    <td valign="top">
+<!-- bof  breadcrumb -fler-richsnippets -->
+   <div id="navBreadCrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">  <a href="http://www.regatuljocurilor.ro/">Acasa</a>&nbsp;::&nbsp;
+Autentificare
+</div>
+<!-- eof breadcrumb -->
+
+
+<!-- bof upload alerts -->
+<!-- eof upload alerts -->
+
+<div class="centerColumn" id="loginDefault">
+
+<h1 id="loginDefaultHeading">Bine ai venit, Te rugam sa te autentifici</h1>
+
+  <div class="messageStackError larger"><img src="includes/templates/template_default/images/icons/error.gif" alt="Error" title=" Error " width="20" height="20">  Eroare: Ne pare rau , nu exista adresa de email sau/si parola.</div>
+
+
+
+<!--BOF normal login-->
+<form name="login" action="http://www.regatuljocurilor.ro/index.php?main_page=login&amp;action=process" method="post" id="loginForm"><input type="hidden" name="securityToken" value="2f2835337b5eafb025e5abb9001df453"><fieldset>
+<legend>Contul Meu</legend>
+
+<label class="inputLabel" for="login-email-address">Adresa de Email:</label>
+<input type="text" name="email_address" value="sabrina.groza@gmail.com" size="41" maxlength="96" id="login-email-address"><br class="clearBoth">
+
+<label class="inputLabel" for="login-password">Parola:</label>
+<input type="password" name="password" value="" size="41" maxlength="40" id="login-password"><br class="clearBoth">
+<input type="hidden" name="securityToken" value="2f2835337b5eafb025e5abb9001df453"></fieldset>
+
+<div class="buttonRow forward"><input type="image" src="includes/templates/abbington_mega/buttons/romana/button_login.gif" alt="Autentificare" title=" Autentificare "></div>
+<div class="buttonRow back important"><a href="http://www.regatuljocurilor.ro/index.php?main_page=password_forgotten">Ai uitat parola?</a></div>
+</form>
+<br class="clearBoth">
+
+<form name="create_account" action="http://www.regatuljocurilor.ro/index.php?main_page=create_account" method="post" onsubmit="return check_form(create_account);" id="createAccountForm"><input type="hidden" name="securityToken" value="2f2835337b5eafb025e5abb9001df453"><input type="hidden" name="action" value="process"><input type="hidden" name="email_pref_html" value="email_format"><fieldset>
+<legend>Creare cont nou:</legend>
+
+<div class="information">Creaza-ti cont in <strong>Regatul Jocurilor</strong> ce iti va permite sa comanzi mai rapid si sa beneficiezi de ofertele noastre speciale.</div>
+
+
+<div class="alert forward">* Campuri obligatorii</div>
+<br class="clearBoth">
+
+
+<fieldset>
+<legend>Detalii firma</legend>
+<label class="inputLabel" for="company">Numele firmei:</label>
+<input type="text" name="company" size="41" maxlength="64" id="company"></fieldset>
+
+<fieldset>
+<legend>Detalii Adresa</legend>
+<input type="radio" name="gender" value="m" id="gender-male"><label class="radioButtonLabel" for="gender-male">Dl.</label><input type="radio" name="gender" value="f" id="gender-female"><label class="radioButtonLabel" for="gender-female">Dna.</label><span class="alert">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="firstname">Prenume:</label>
+<input type="text" name="firstname" size="33" maxlength="32" id="firstname"><span class="alert">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="lastname">Nume de familie:</label>
+<input type="text" name="lastname" size="33" maxlength="32" id="lastname"><span class="alert">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="street-address">Adresa:</label>
+  <input type="text" name="street_address" size="41" maxlength="64" id="street-address"><span class="alert">*</span><br class="clearBoth">
+
+<input type="text" name="should_be_empty" size="40" id="CAAS" style="visibility:hidden; display:none;" autocomplete="off">
+<label class="inputLabel" for="suburb">Adresa linia 2:</label>
+<input type="text" name="suburb" size="33" maxlength="32" id="suburb"><br class="clearBoth">
+
+<label class="inputLabel" for="city">Oras:</label>
+<input type="text" name="city" size="33" maxlength="32" id="city"><span class="alert">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="stateZone" id="zoneLabel">Judet/Sector:</label>
+<select name="zone_id" id="stateZone">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<option value="">Selectati ...</option><option value="314">ALBA</option><option value="355">ARAD</option><option value="315">ARGES</option><option value="316">BACAU</option><option value="317">BIHOR</option><option value="318">BISTRITA-NASAUD</option><option value="319">BOTOSANI</option><option value="321">BRAILA</option><option value="320">BRASOV</option><option value="352">BUCURESTI</option><option value="322">BUZAU</option><option value="353">CALARASI</option><option value="323">CARAS-SEVERIN</option><option value="324">CLUJ</option><option value="325">CONSTANTA</option><option value="326">COVASNA</option><option value="327">DIMBOVITA</option><option value="328">DOLJ</option><option value="329">GALATI</option><option value="354">GIURGIU</option><option value="330">GORJ</option><option value="331">HARGHITA</option><option value="332">HUNEDOARA</option><option value="333">IALOMITA</option><option value="334">IASI</option><option value="335">ILFOV</option><option value="336">MARAMURES</option><option value="337">MEHEDINTI</option><option value="338">MURES</option><option value="339">NEAMT</option><option value="340">OLT</option><option value="341">PRAHOVA</option><option value="284">Romania</option><option value="343">SALAJ</option><option value="342">SATU_MARE</option><option value="300">Sector 1</option><option value="301">Sector 2</option><option value="302">Sector 3</option><option value="304">Sector 4</option><option value="305">Sector 5</option><option value="306">Sector 6</option><option value="344">SIBIU</option><option value="345">SUCEAVA</option><option value="346">TELEORMAN</option><option value="347">TIMIS</option><option value="348">TULCEA</option><option value="349">VASLUI</option><option value="350">VILCEA</option><option value="351">VRANCEA</option></select>
+&nbsp;<span class="alert">*</span>
+<br class="hiddenField" id="stBreak" classname="hiddenField">
+<label class="hiddenField" for="state" id="stateLabel" classname="hiddenField"></label>
+<input type="text" name="state" value="&nbsp;" size="33" maxlength="32" id="state" disabled="" class="hiddenField" classname="hiddenField">&nbsp;<span class="hiddenField" id="stText" classname="hiddenField">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="postcode">Cod postal:</label>
+<input type="text" name="postcode" size="11" maxlength="10" id="postcode"><span class="alert">*</span><br class="clearBoth">
+
+<label class="inputLabel" for="country">Tara:</label>
+<select name="zone_country_id" id="country" onchange="update_zone(this.form);">
+  <option value="">Va rugam sa alegeti tara</option>
+  <option value="175" selected="selected">Romania</option>
+  <option value="240">Aaland Islands</option>
+  <option value="1">Afghanistan</option>
+  <option value="2">Albania</option>
+  <option value="3">Algeria</option>
+  <option value="4">American Samoa</option>
+  <option value="5">Andorra</option>
+  <option value="6">Angola</option>
+  <option value="7">Anguilla</option>
+  <option value="8">Antarctica</option>
+  <option value="9">Antigua and Barbuda</option>
+  <option value="10">Argentina</option>
+  <option value="11">Armenia</option>
+  <option value="12">Aruba</option>
+  <option value="13">Australia</option>
+  <option value="14">Austria</option>
+  <option value="15">Azerbaijan</option>
+  <option value="16">Bahamas</option>
+  <option value="17">Bahrain</option>
+  <option value="18">Bangladesh</option>
+  <option value="19">Barbados</option>
+  <option value="20">Belarus</option>
+  <option value="21">Belgium</option>
+  <option value="22">Belize</option>
+  <option value="23">Benin</option>
+  <option value="24">Bermuda</option>
+  <option value="25">Bhutan</option>
+  <option value="26">Bolivia</option>
+  <option value="27">Bosnia and Herzegowina</option>
+  <option value="28">Botswana</option>
+  <option value="29">Bouvet Island</option>
+  <option value="30">Brazil</option>
+  <option value="31">British Indian Ocean Territory</option>
+  <option value="32">Brunei Darussalam</option>
+  <option value="33">Bulgaria</option>
+  <option value="34">Burkina Faso</option>
+  <option value="35">Burundi</option>
+  <option value="36">Cambodia</option>
+  <option value="37">Cameroon</option>
+  <option value="38">Canada</option>
+  <option value="39">Cape Verde</option>
+  <option value="40">Cayman Islands</option>
+  <option value="41">Central African Republic</option>
+  <option value="42">Chad</option>
+  <option value="43">Chile</option>
+  <option value="44">China</option>
+  <option value="45">Christmas Island</option>
+  <option value="46">Cocos (Keeling) Islands</option>
+  <option value="47">Colombia</option>
+  <option value="48">Comoros</option>
+  <option value="49">Congo</option>
+  <option value="50">Cook Islands</option>
+  <option value="51">Costa Rica</option>
+  <option value="52">Cote D'Ivoire</option>
+  <option value="53">Croatia</option>
+  <option value="54">Cuba</option>
+  <option value="55">Cyprus</option>
+  <option value="56">Czech Republic</option>
+  <option value="57">Denmark</option>
+  <option value="58">Djibouti</option>
+  <option value="59">Dominica</option>
+  <option value="60">Dominican Republic</option>
+  <option value="62">Ecuador</option>
+  <option value="63">Egypt</option>
+  <option value="64">El Salvador</option>
+  <option value="65">Equatorial Guinea</option>
+  <option value="66">Eritrea</option>
+  <option value="67">Estonia</option>
+  <option value="68">Ethiopia</option>
+  <option value="69">Falkland Islands (Malvinas)</option>
+  <option value="70">Faroe Islands</option>
+  <option value="71">Fiji</option>
+  <option value="72">Finland</option>
+  <option value="73">France</option>
+  <option value="75">French Guiana</option>
+  <option value="76">French Polynesia</option>
+  <option value="77">French Southern Territories</option>
+  <option value="78">Gabon</option>
+  <option value="79">Gambia</option>
+  <option value="80">Georgia</option>
+  <option value="81">Germany</option>
+  <option value="82">Ghana</option>
+  <option value="83">Gibraltar</option>
+  <option value="84">Greece</option>
+  <option value="85">Greenland</option>
+  <option value="86">Grenada</option>
+  <option value="87">Guadeloupe</option>
+  <option value="88">Guam</option>
+  <option value="89">Guatemala</option>
+  <option value="243">Guernsey</option>
+  <option value="90">Guinea</option>
+  <option value="91">Guinea-bissau</option>
+  <option value="92">Guyana</option>
+  <option value="93">Haiti</option>
+  <option value="94">Heard and Mc Donald Islands</option>
+  <option value="95">Honduras</option>
+  <option value="96">Hong Kong</option>
+  <option value="97">Hungary</option>
+  <option value="98">Iceland</option>
+  <option value="99">India</option>
+  <option value="100">Indonesia</option>
+  <option value="101">Iran (Islamic Republic of)</option>
+  <option value="102">Iraq</option>
+  <option value="103">Ireland</option>
+  <option value="244">Isle of Man</option>
+  <option value="104">Israel</option>
+  <option value="105">Italy</option>
+  <option value="106">Jamaica</option>
+  <option value="107">Japan</option>
+  <option value="245">Jersey</option>
+  <option value="108">Jordan</option>
+  <option value="109">Kazakhstan</option>
+  <option value="110">Kenya</option>
+  <option value="111">Kiribati</option>
+  <option value="112">Korea, Democratic People's Republic of</option>
+  <option value="113">Korea, Republic of</option>
+  <option value="114">Kuwait</option>
+  <option value="115">Kyrgyzstan</option>
+  <option value="116">Lao People's Democratic Republic</option>
+  <option value="117">Latvia</option>
+  <option value="118">Lebanon</option>
+  <option value="119">Lesotho</option>
+  <option value="120">Liberia</option>
+  <option value="121">Libyan Arab Jamahiriya</option>
+  <option value="122">Liechtenstein</option>
+  <option value="123">Lithuania</option>
+  <option value="124">Luxembourg</option>
+  <option value="125">Macao</option>
+  <option value="126">Macedonia, The Former Yugoslav Republic of</option>
+  <option value="127">Madagascar</option>
+  <option value="128">Malawi</option>
+  <option value="129">Malaysia</option>
+  <option value="130">Maldives</option>
+  <option value="131">Mali</option>
+  <option value="132">Malta</option>
+  <option value="133">Marshall Islands</option>
+  <option value="134">Martinique</option>
+  <option value="135">Mauritania</option>
+  <option value="136">Mauritius</option>
+  <option value="137">Mayotte</option>
+  <option value="138">Mexico</option>
+  <option value="139">Micronesia, Federated States of</option>
+  <option value="140">Moldova</option>
+  <option value="141">Monaco</option>
+  <option value="142">Mongolia</option>
+  <option value="242">Montenegro</option>
+  <option value="143">Montserrat</option>
+  <option value="144">Morocco</option>
+  <option value="145">Mozambique</option>
+  <option value="146">Myanmar</option>
+  <option value="147">Namibia</option>
+  <option value="148">Nauru</option>
+  <option value="149">Nepal</option>
+  <option value="150">Netherlands</option>
+  <option value="151">Netherlands Antilles</option>
+  <option value="152">New Caledonia</option>
+  <option value="153">New Zealand</option>
+  <option value="154">Nicaragua</option>
+  <option value="155">Niger</option>
+  <option value="156">Nigeria</option>
+  <option value="157">Niue</option>
+  <option value="158">Norfolk Island</option>
+  <option value="159">Northern Mariana Islands</option>
+  <option value="160">Norway</option>
+  <option value="161">Oman</option>
+  <option value="162">Pakistan</option>
+  <option value="163">Palau</option>
+  <option value="241">Palestinian Territory</option>
+  <option value="164">Panama</option>
+  <option value="165">Papua New Guinea</option>
+  <option value="166">Paraguay</option>
+  <option value="167">Peru</option>
+  <option value="168">Philippines</option>
+  <option value="169">Pitcairn</option>
+  <option value="170">Poland</option>
+  <option value="171">Portugal</option>
+  <option value="172">Puerto Rico</option>
+  <option value="173">Qatar</option>
+  <option value="174">Reunion</option>
+  <option value="176">Russian Federation</option>
+  <option value="177">Rwanda</option>
+  <option value="178">Saint Kitts and Nevis</option>
+  <option value="179">Saint Lucia</option>
+  <option value="180">Saint Vincent and the Grenadines</option>
+  <option value="181">Samoa</option>
+  <option value="182">San Marino</option>
+  <option value="183">Sao Tome and Principe</option>
+  <option value="184">Saudi Arabia</option>
+  <option value="185">Senegal</option>
+  <option value="236">Serbia</option>
+  <option value="186">Seychelles</option>
+  <option value="187">Sierra Leone</option>
+  <option value="188">Singapore</option>
+  <option value="189">Slovakia (Slovak Republic)</option>
+  <option value="190">Slovenia</option>
+  <option value="191">Solomon Islands</option>
+  <option value="192">Somalia</option>
+  <option value="193">South Africa</option>
+  <option value="194">South Georgia and the South Sandwich Islands</option>
+  <option value="195">Spain</option>
+  <option value="196">Sri Lanka</option>
+  <option value="197">St. Helena</option>
+  <option value="198">St. Pierre and Miquelon</option>
+  <option value="199">Sudan</option>
+  <option value="200">Suriname</option>
+  <option value="201">Svalbard and Jan Mayen Islands</option>
+  <option value="202">Swaziland</option>
+  <option value="203">Sweden</option>
+  <option value="204">Switzerland</option>
+  <option value="205">Syrian Arab Republic</option>
+  <option value="206">Taiwan</option>
+  <option value="207">Tajikistan</option>
+  <option value="208">Tanzania, United Republic of</option>
+  <option value="209">Thailand</option>
+  <option value="61">Timor-Leste</option>
+  <option value="210">Togo</option>
+  <option value="211">Tokelau</option>
+  <option value="212">Tonga</option>
+  <option value="213">Trinidad and Tobago</option>
+  <option value="214">Tunisia</option>
+  <option value="215">Turkey</option>
+  <option value="216">Turkmenistan</option>
+  <option value="217">Turks and Caicos Islands</option>
+  <option value="218">Tuvalu</option>
+  <option value="219">Uganda</option>
+  <option value="220">Ukraine</option>
+  <option value="221">United Arab Emirates</option>
+  <option value="222">United Kingdom</option>
+  <option value="223">United States</option>
+  <option value="224">United States Minor Outlying Islands</option>
+  <option value="225">Uruguay</option>
+  <option value="226">Uzbekistan</option>
+  <option value="227">Vanuatu</option>
+  <option value="228">Vatican City State (Holy See)</option>
+  <option value="229">Venezuela</option>
+  <option value="230">Viet Nam</option>
+  <option value="231">Virgin Islands (British)</option>
+  <option value="232">Virgin Islands (U.S.)</option>
+  <option value="233">Wallis and Futuna Islands</option>
+  <option value="234">Western Sahara</option>
+  <option value="235">Yemen</option>
+  <option value="238">Zambia</option>
+  <option value="239">Zimbabwe</option>
+</select>
+<span class="alert">*</span><br class="clearBoth">
+</fieldset>
+
+<fieldset>
+<legend>Detalii de Contact</legend>
+<label class="inputLabel" for="telephone">Telefon:</label>
+<input type="text" name="telephone" size="33" maxlength="32" id="telephone"><span class="alert">*</span>
+<br class="clearBoth">
+<label class="inputLabel" for="fax">Numar de fax:</label>
+<input type="text" name="fax" id="fax"></fieldset>
+
+<fieldset>
+<legend>Varsta</legend>
+<label class="inputLabel" for="dob">Ziua de nastere:</label>
+<input type="text" name="dob" id="dob"><span class="alert">* (ex. 21/05/1985)</span><br class="clearBoth">
+</fieldset>
+
+<fieldset>
+<legend>Detalii pentru Autentificare</legend>
+<label class="inputLabel" for="email-address">Adresa de Email:</label>
+<input type="text" name="email_address" value="sabrina.groza@gmail.com" size="41" maxlength="96" id="email-address"><span class="alert">*</span><br class="clearBoth">
+
+
+<label class="inputLabel" for="password-new">Parola:</label>
+<input type="password" name="password" value="" size="21" maxlength="40" id="password-new" autocomplete="off"><span class="alert">* (minim 7 caractere)</span><br class="clearBoth">
+
+<label class="inputLabel" for="password-confirm">Confirma Parola:</label>
+<input type="password" name="confirmation" size="21" maxlength="40" id="password-confirm" autocomplete="off"><span class="alert">*</span><br class="clearBoth">
+</fieldset>
+
+<fieldset>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+<div class="g-recaptcha" data-sitekey="6LezLU4UAAAAAC3SoNhwIeyUi397hY8k17nQavgA"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LezLU4UAAAAAC3SoNhwIeyUi397hY8k17nQavgA&amp;co=aHR0cDovL3d3dy5yZWdhdHVsam9jdXJpbG9yLnJvOjgw&amp;hl=ro&amp;v=Km9gKuG06He-isPsP6saG8cn&amp;size=normal&amp;cb=gvi4wiloj2w3" role="presentation" name="a-uyq8y9uhdade" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" width="304" height="78" frameborder="0"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+</fieldset>
+
+<fieldset>
+<legend>Newsletter si detalii Email</legend>
+<input type="checkbox" name="newsletter" value="1" id="newsletter-checkbox"><label class="checkboxLabel" for="newsletter-checkbox">Abonati-va la Newsletter-ul nostru.</label><br class="clearBoth">
+
+<input type="radio" name="email_format" value="HTML" checked="checked" id="email-format-html"><label class="radioButtonLabel" for="email-format-html">HTML</label><input type="radio" name="email_format" value="TEXT" id="email-format-text"><label class="radioButtonLabel" for="email-format-text">TEXT-Only</label><br class="clearBoth">
+</fieldset>
+
+
+</fieldset>
+
+<div class="buttonRow forward"><input type="image" src="includes/templates/abbington_mega/buttons/romana/button_submit.gif" alt="Trimite informatia" title=" Trimite informatia "></div>
+</form>
+<!--EOF normal login-->
+</div>
+</td>
+
+<td id="navColumnTwo" class="columnRight" style="width: 185px">
+<div id="navColumnTwoWrapper" style="width: 189px"><!--// bof: contactsidebox //-->
+<div class="rightBoxContainer" id="contactsidebox" style="width: 189px">
+<h3 class="rightBoxHeading" id="contactsideboxHeading">Contact</h3>
+<div id="contactsideboxContent" class="sideBoxContent"><img src="includes/templates/abbington_mega/images/phone.png" class="footer-icon">0726144156<br><a href="mailto:sales@regatuljocurilor.ro"><img src="includes/templates/abbington_mega/images/email.png" class="footer-icon email-icon"> Comanda prin Email</a></div></div>
+<!--// eof: contactsidebox //-->
+
+<!--// bof: specials //-->
+<div class="rightBoxContainer" id="specials" style="width: 189px">
+<h3 class="rightBoxHeading" id="specialsHeading"><a href="http://www.regatuljocurilor.ro/specials.html">Promotii&nbsp;&nbsp;[mai multe]</a></h3>
+<div class="sideBoxContent centeredContent">
+  <div class="sideBoxContentItem"><a href="http://www.regatuljocurilor.ro/lego-dc-super-heroes-c-26_41/super-heroes-gardienii-galaxiei-atacul-distrugator-p-4777.html"><img itemprop="image" src="bmz_cache/8/871702debeedc60ab15b46ff4c85651a.image.85x85.jpg" alt="Super Heroes Gardienii Galaxiei: Atacul Distrugator" title=" Super Heroes Gardienii Galaxiei: Atacul Distrugator " style="position:relative" onmouseover="showtrail('bmz_cache/8/871702debeedc60ab15b46ff4c85651a.image.800x800.jpg','Super Heroes Gardienii Galaxiei: Atacul Distrugator',85,85,800,800,this,0,0,85,85);" onmouseout="hidetrail();" width="85" height="85"><br>Super Heroes Gardienii Galaxiei: Atacul Distrugator</a><div><span class="normalprice">118 RON </span>&nbsp;<span class="productSpecialPrice">104 RON</span><span class="productPriceDiscount"><br>Economisesti:&nbsp;14 RON&nbsp;</span></div></div>
+  <div class="sideBoxContentItem"><a href="http://www.regatuljocurilor.ro/logiceabstracte-c-10/pinguinii-aka-hey-thats-my-fish-romanian-edition-p-1249.html"><img itemprop="image" src="bmz_cache/a/ac01f9240e60133aed37ba88fcab2039.image.85x85.jpg" alt="Pinguinii! aka Hey, That's My Fish! (Romanian Edition)" title=" Pinguinii! aka Hey, That's My Fish! (Romanian Edition) " style="position:relative" onmouseover="showtrail('images/_Pinguinii/heythatsmyfish.jpg','Pinguinii! aka Hey, That\'s My Fish! (Romanian Edition)',85,85,600,600,this,0,0,85,85);" onmouseout="hidetrail();" width="85" height="85"><br>Pinguinii! aka Hey, That's My Fish! (Romanian Edition)</a><div><span class="normalprice">49 RON </span>&nbsp;<span class="productSpecialPrice">44 RON</span><span class="productPriceDiscount"><br>Economisesti:&nbsp;5 RON&nbsp;</span></div></div></div>
+</div>
+<!--// eof: specials //-->
+
+<!--// bof: search //-->
+<div class="rightBoxContainer" id="search" style="width: 189px">
+<h3 class="rightBoxHeading" id="searchHeading"><label>Cautare</label></h3>
+<div id="searchContent" class="sideBoxContent centeredContent"><form name="quick_find" action="http://www.regatuljocurilor.ro/index.php?main_page=advanced_search_result" method="get"><input type="hidden" name="main_page" value="advanced_search_result"><input type="hidden" name="search_in_description" value="0"><input type="text" name="keyword" size="18" maxlength="100" style="width: 159px" value="Cauta..." onfocus="if (this.value == 'Cauta...') this.value = '';" onblur="if (this.value == '') this.value = 'Cauta...';" autocomplete="off"><br><input type="image" src="includes/templates/abbington_mega/buttons/romana/button_search.gif" alt="Search" title=" Search "><br><a href="http://www.regatuljocurilor.ro/index.php?main_page=advanced_search">Cautare avansata</a></form></div></div>
+<!--// eof: search //-->
+
+<!--// bof: bannerbox2 //-->
+<div class="rightBoxContainer" id="bannerbox2" style="width: 189px">
+<h3 class="rightBoxHeading" id="bannerbox2Heading">Ai vazut ...</h3>
+<div id="bannerbox2Content" class="sideBoxContent centeredContent"><a href="http://www.regatuljocurilor.ro/index.php?main_page=redirect&amp;action=banner&amp;goto=31" target="_blank"><img itemprop="image" src="images/banners/jooble.jpg" alt="Jooble" title=" Jooble " width="186" height="147"></a></div></div>
+<!--// eof: bannerbox2 //-->
+
+<!--// bof: bestsellers //-->
+<div class="rightBoxContainer" id="bestsellers" style="width: 189px">
+<h3 class="rightBoxHeading" id="bestsellersHeading">Cele mai vandute</h3>
+<div id="bestsellersContent" class="sideBoxContent">
+
+<ul style="margin: 0; padding: 0; list-style-type: none;">
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/petrecere-c-3/saboteur-p-30.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">1.&nbsp;&nbsp;&nbsp;Saboteur</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/incepatori-c-14/dixit-odyssey-p-6.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">2.&nbsp;&nbsp;&nbsp;Dixit Odyssey</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/petrecere-c-3/activity-original-editia-a-2a-p-323.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">3.&nbsp;&nbsp;&nbsp;Activity Original - editia a 2-a</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/petrecere-c-3/turnul-instabil-aka-jenga-p-598.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">4.&nbsp;&nbsp;&nbsp;Turnul Instabil aka Jenga</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/incepatori-c-14/dobble-p-3.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">5.&nbsp;&nbsp;&nbsp;Dobble</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/incepatori-c-14/colonistii-din-catan-editia-2015-p-1.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">6.&nbsp;&nbsp;&nbsp;Colonistii din Catan (Editia 2015)</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/in-familie-c-1/ticket-to-ride-europe-p-89.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">7.&nbsp;&nbsp;&nbsp;Ticket to Ride: Europe</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/incepatori-c-14/dixit-p-5.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">8.&nbsp;&nbsp;&nbsp;Dixit</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/petrecere-c-3/jungle-speed-p-27.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">9.&nbsp;&nbsp;&nbsp;Jungle Speed</a></div></li>
+<li><div class="betterBestsellers"><a href="http://www.regatuljocurilor.ro/accesorii-c-17/swan-panasia-sleeves-65-x-90-thick-magic-the-gathering-p-801.html"><img src="includes/templates/abbington_mega/images/bc_bestsellers.gif" alt="" width="1" height="1">10.&nbsp;&nbsp;&nbsp;Swan Panasia Sleeves 65 X 90 -...</a></div></li>
+</ul>
+</div></div>
+<!--// eof: bestsellers //-->
+
+<!--// bof: bannerboxall //-->
+<div class="rightBoxContainer" id="bannerboxall" style="width: 189px">
+<h3 class="rightBoxHeading" id="bannerboxallHeading">Parteneri</h3>
+<div id="bannerboxallContent" class="sideBoxContent centeredContent"><a href="http://www.regatuljocurilor.ro/index.php?main_page=redirect&amp;action=banner&amp;goto=5" target="_blank"><img itemprop="image" src="images/logoBGH.png" alt="Boardgames Hub" title=" Boardgames Hub " width="130" height="109"></a></div></div>
+<!--// eof: bannerboxall //-->
+
+</div></td>
+  </tr>
+</tbody></table>
+
+
+
+<div id="footer">
+
+<!--bof-navigation display -->
+<div id="navSuppWrapper">
+<!--BOF footer menu display-->
+
+<dl>
+<dd class="first">
+<ul>
+<li class="menuTitle">Contact</li>
+    <li class="footer-phone"><a href=""><img src="includes/templates/abbington_mega/images/phone.png" alt="phone number" class="footer-icon">0726144156</a></li>
+<li><a href="mailto:' . STORE_OWNER_EMAIL_ADDRESS . '"><img src="includes/templates/abbington_mega/images/email.png" alt="email us" class="footer-icon email-icon">regatuljocurilor@gmail.com</a></li>
+</ul>
+</dd>
+
+
+
+<dd class="second">
+<ul><li class="menuTitle">Informatii</li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=about_us">Despre Noi</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=site_map">Harta Site-ului</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=gv_faq">Certificat Cadou FAQ</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=discount_coupon">Cupoane de reducere</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=unsubscribe">Dezabonare Newsletter</a></li></ul></dd><dd class="third">
+<ul><li class="menuTitle">Serviciu Clienti</li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=contact_us">Contact</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=shippinginfo">Livrare &amp; Plata</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=privacy">Politica de Confidentialitate</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=conditions">Conditii de utilizare</a></li><li><a href="http://www.regatuljocurilor.ro/index.php?main_page=account">Contul Meu</a></li><li><a href="http://www.anpc.gov.ro/">ANPC</a></li><li><a href="https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.show&amp;lng=RO">Solutionarea litigiilor</a></li></ul></dd><dd><ul><li class="menuTitle">Link-uri Utile</li></ul></dd></dl>
+
+<!--EOF footer menu display-->
+</div>
+<div id="footer-bottom">
+  
+<div class="Images ANPC " style="
+    text-align: center;
+"><a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener noreferrer" style="
+    /* width: 250px; */
+"><img src="//test.regatuljocurilor.ro/img/SOL.png" alt="SOL" style="
+    width: 250px;
+"></a><a href="https://anpc.ro/ce-este-sal/" target="_blank" rel="noopener noreferrer"><img src="//test.regatuljocurilor.ro/img/pictograma-anpc.png" alt="SAL" style="
+    width: 250px;
+"></a></div>
+
+<div id="footer-payments">
+<center>
+<img itemprop="image" src="images/banners/paypal.png" alt="Footer-Payments Image" title=" Footer-Payments Image " width="206" height="23"></center>
+</div>
+<a href="http://www.shopmania.ro/" title="Viziteaza magazinul Regatuljocurilor.ro pe ShopMania" onclick="target='_blank'; window.open('http://www.shopmania.ro/site/regatuljocurilor.ro'); return false;" onkeypress="target='_blank'"><img src="http://www.shopmania.ro/img/badge/ro/8.png?m=760718224" style="border: 0;" alt="Viziteaza magazinul Regatuljocurilor.ro pe ShopMania"></a>
+<div id="social-media">
+
+<div class="smi facebook">
+<a href="http://www.regatuljocurilor.ro/index.php?main_page=redirect&amp;action=banner&amp;goto=22" target="_blank"><img itemprop="image" src="images/banners/facebook.png" alt="Footer Facebook Icon" title=" Footer Facebook Icon " width="32" height="32"></a></div>
+<div class="smi twitter">
+<img itemprop="image" src="images/banners/twitter.png" alt="Footer Twitter Icon" title=" Footer Twitter Icon " width="32" height="32"></div>
+<div class="smi youtube">
+<img itemprop="image" src="images/banners/youtube.png" alt="Footer Youtube Icon" title=" Footer Youtube Icon " width="32" height="32"></div>
+<div class="smi google">
+<img itemprop="image" src="images/banners/google.png" alt="Footer Google Plus Icon" title=" Footer Google Plus Icon " width="32" height="32"></div>
+</div>
+
+</div>
+<br class="clearBoth">
+
+
+<!--eof-navigation display -->
+
+
+
+<!--bof- site copyright display -->
+<div id="siteinfoLegal" class="legalCopyright">Copyright © 2022 <a href="http://www.regatuljocurilor.ro/index.php?main_page=index" target="_blank">Regatul Jocurilor</a>.</div>
+<!--eof- site copyright display -->
+</div>
+
+<!--bof-ip address display -->
+<!--eof-ip address display -->
+
+<!--bof-banner #5 display -->
+<!--eof-banner #5 display -->
+
+
+</div>
+<!--bof- parse time display -->
+<!--eof- parse time display -->
+<!--bof- banner #6 display -->
+<!--eof- banner #6 display -->
+
+</div><div id="abdsg"></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;" class="g-recaptcha-bubble-arrow"></div><div style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;" class="g-recaptcha-bubble-arrow"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Imaginea de verificare reCAPTCHA expiră în două minute" src="https://www.google.com/recaptcha/api2/bframe?hl=ro&amp;v=Km9gKuG06He-isPsP6saG8cn&amp;k=6LezLU4UAAAAAC3SoNhwIeyUi397hY8k17nQavgA" style="width: 100%; height: 100%;" name="c-uyq8y9uhdade" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox allow-storage-access-by-user-activation" frameborder="0"></iframe></div></div></body></html>

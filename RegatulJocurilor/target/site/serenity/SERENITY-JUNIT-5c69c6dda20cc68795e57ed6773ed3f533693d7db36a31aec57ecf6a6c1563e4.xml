@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="org.example.features.search.SearchGameStory" skipped="0" tests="1" time="11.69" timestamp="2022-11-24 12:37:22"><testcase classname="org.example.features.search.SearchGameStory" name="Searching by keyword biber gang should not display the list of games"/></testsuite>

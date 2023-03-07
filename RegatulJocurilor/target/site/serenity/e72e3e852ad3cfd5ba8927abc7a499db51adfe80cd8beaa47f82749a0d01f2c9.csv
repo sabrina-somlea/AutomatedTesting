@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2022-11-23T22:17:37.103+02:00[Asia/Beirut]","0.0","9.27"
+"Search game story","Searching by keyword biber gang should not display the list of games","SUCCESS","2022-11-24T12:37:22.769+02:00[Asia/Beirut]","0.0","11.69"
+"Search game story","Searching by keyword dixit should display the list of games","SUCCESS","2022-11-24T20:07:01.485+02:00[Asia/Beirut]","0.0","12.8"
+"Search game story parameterized","Searching by given keyword should display the list of games","SUCCESS","2022-11-24T20:08:10.3+02:00[Asia/Beirut]","0.0","21.0"

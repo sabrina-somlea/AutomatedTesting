@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login story","Login succesfully","SUCCESS","2022-11-24T13:34:05.809+02:00[Asia/Beirut]","0.0","14.63"
+"Login story","Login invalid","SUCCESS","2022-11-24T13:55:30.246+02:00[Asia/Beirut]","0.0","13.51"

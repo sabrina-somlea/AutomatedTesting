@@ -1,0 +1,1648 @@
+<html class="" lang="ro"><head>
+    
+      
+<meta charset="utf-8">
+
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>Conecteaza-te</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+      
+                  <link rel="alternate" href="https://regatuljocurilor.ro/en/login" hreflang="en-us">
+                  <link rel="alternate" href="https://regatuljocurilor.ro/ro/autentificare" hreflang="ro-ro">
+        
+  
+<meta property="og:title" content="Conecteaza-te">
+<meta property="og:description" content="">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://regatuljocurilor.ro/ro/autentificare?back=my-account">
+<meta property="og:site_name" content="Regatul Jocurilor">
+
+    <meta property="og:image" content="https://regatuljocurilor.rohttps://regatuljocurilor.ro/img/regatul-jocurilor-logo-1630002296.jpg">
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/Km9gKuG06He-isPsP6saG8cn/recaptcha__ro.js" crossorigin="anonymous" integrity="sha384-6h0yN+YiqZbzu20Cu2WWnjw/N3LQn65NlirO9VgnRtkNi9ubTtEQASN41UlFOqEd"></script><script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "name" : "Regatul Jocurilor",
+    "url" : "https://regatuljocurilor.ro/ro/",
+    "logo" : {
+        "@type":"ImageObject",
+        "url":"https://regatuljocurilor.rohttps://regatuljocurilor.ro/img/regatul-jocurilor-logo-1630002296.jpg"
+    }
+}
+
+</script>
+
+<script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"WebPage",
+    "isPartOf": {
+        "@type":"WebSite",
+        "url":  "https://regatuljocurilor.ro/ro/",
+        "name": "Regatul Jocurilor"
+    },
+    "name": "Conecteaza-te",
+    "url":  "https://regatuljocurilor.ro/ro/autentificare?back=my-account"
+}
+
+
+</script>
+<script type="application/ld+json">
+    {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+    "@type": "ListItem",
+    "position": 1,
+    "name": "Acasa",
+    "item": "https://regatuljocurilor.ro/ro/"
+    },        {
+    "@type": "ListItem",
+    "position": 2,
+    "name": "Intra in contul tau",
+    "item": "https://regatuljocurilor.ro/ro/autentificare"
+    }    ]
+    }
+    </script>
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://regatuljocurilor.ro/img/favicon.ico?1636672296">
+<link rel="shortcut icon" type="image/x-icon" href="https://regatuljocurilor.ro/img/favicon.ico?1636672296">
+
+<!-- Templatemela added -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&amp;display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap" rel="stylesheet"> 
+
+
+
+    <link rel="stylesheet" href="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/css/font-awesome.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/blockreassurance/views/dist/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/paypal/views/css/paypal_fo.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/tmcouponpop/views/css/tmcouponpop.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/tmcountdown/views/css/jquery.countdown.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/productyoutube/views/css/productyoutube.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/preorderandnotification/views/css/timeTo.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/preorderandnotification/views/css/sweetalert2.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/preorderandnotification/views/css/pos_label.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/tmajaxsearch/views/css/tmstyle.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/productcomments//views/css/productcomments.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/hwcrecaptchaspam/views/css/front/recaptcha.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/rc_fancourier//views/css/select2.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/advansedwishlist//views/css/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/js/jquery/ui/themes/base/minified/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/js/jquery/ui/themes/base/minified/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/js/jquery/plugins/fancybox/jquery.fancybox.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/ps_imageslider/css/homeslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/tm_imageslider/views/css/flexslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/tm_verticalmenu/views/css/tm_verticalmenu.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/alcashowdiscount/views/css/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/modules/alcashowdiscount/views/css/custom.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/css/custom.css" type="text/css" media="all">
+
+
+<script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/parascroll.js"></script>
+
+  
+
+  <script type="text/javascript">
+        var RC_FANCOURIER_CITY_SELECTOR = true;
+        var RC_FANCOURIER_SELECT2 = "1";
+        var cc = "authentication";
+        var countdown_timer_theme = "white";
+        var id_combination = 0;
+        var id_product = 0;
+        var isSimpleProduct = true;
+        var is_gdpr = 0;
+        var islogged = false;
+        var iso = "ro";
+        var labels = {"days":"Zile","hours":"Orele","min":"Min","sec":"Sec","total_price_label":"Pretul total","preorder_price_label":"Pre-comand\u0103 Pre\u021b","preorder_title":"Produsul de precomand\u0103 este acum \u00een stoc","dynamic_preorder_login_label":"V\u0103 rug\u0103m s\u0103 v\u0103 conecta\u021bi pentru a comanda \u00een avans cu pre\u021b personalizat."};
+        var po_ajax = "https:\/\/regatuljocurilor.ro\/ro\/preorder";
+        var po_combs = [];
+        var po_imod = "106";
+        var po_static_token = "6cf63467592d9cb1faae26d0117d7d49";
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"0,00\u00a0RON"},"total_including_tax":{"type":"total","label":"Total (cu taxe)","amount":0,"value":"0,00\u00a0RON"},"total_excluding_tax":{"type":"total","label":"Total (fara TVA)","amount":0,"value":"0,00\u00a0RON"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"0,00\u00a0RON"},"discounts":null,"shipping":{"type":"shipping","label":"Livrare","amount":0,"value":""},"tax":{"type":"tax","label":"Taxele incluse","amount":0,"value":"0,00\u00a0RON"}},"products_count":0,"summary_string":"0 articole","vouchers":{"allowed":1,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"Leu rom\u00e2nesc","iso_code":"RON","iso_code_num":"946","sign":"RON"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"Rom\u00e2n\u0103 (Romanian)","iso_code":"ro","locale":"ro-RO","language_code":"ro-ro","is_rtl":"0","date_format_lite":"Y-m-d","date_format_full":"Y-m-d H:i:s","id":2},"page":{"title":"","canonical":null,"meta":{"title":"Conecteaza-te","description":"","keywords":"","robots":"index"},"page_name":"authentication","body_classes":{"lang-ro":true,"lang-rtl":false,"country-RO":true,"currency-RON":true,"layout-both-columns":true,"page-authentication":true,"tax-display-enabled":true,"page-customer-account":true},"admin_notifications":[]},"shop":{"name":"Regatul Jocurilor","logo":"https:\/\/regatuljocurilor.ro\/img\/regatul-jocurilor-logo-1630002296.jpg","stores_icon":"https:\/\/regatuljocurilor.ro\/img\/logo_stores.png","favicon":"https:\/\/regatuljocurilor.ro\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/regatuljocurilor.ro\/","current_url":"https:\/\/regatuljocurilor.ro\/ro\/autentificare?back=my-account","shop_domain_url":"https:\/\/regatuljocurilor.ro","img_ps_url":"https:\/\/regatuljocurilor.ro\/img\/","img_cat_url":"https:\/\/regatuljocurilor.ro\/img\/c\/","img_lang_url":"https:\/\/regatuljocurilor.ro\/img\/l\/","img_prod_url":"https:\/\/regatuljocurilor.ro\/img\/p\/","img_manu_url":"https:\/\/regatuljocurilor.ro\/img\/m\/","img_sup_url":"https:\/\/regatuljocurilor.ro\/img\/su\/","img_ship_url":"https:\/\/regatuljocurilor.ro\/img\/s\/","img_store_url":"https:\/\/regatuljocurilor.ro\/img\/st\/","img_col_url":"https:\/\/regatuljocurilor.ro\/img\/co\/","img_url":"https:\/\/regatuljocurilor.ro\/themes\/PRSADD279_01\/assets\/img\/","css_url":"https:\/\/regatuljocurilor.ro\/themes\/PRSADD279_01\/assets\/css\/","js_url":"https:\/\/regatuljocurilor.ro\/themes\/PRSADD279_01\/assets\/js\/","pic_url":"https:\/\/regatuljocurilor.ro\/upload\/","pages":{"address":"https:\/\/regatuljocurilor.ro\/ro\/adresa","addresses":"https:\/\/regatuljocurilor.ro\/ro\/adrese","authentication":"https:\/\/regatuljocurilor.ro\/ro\/autentificare","cart":"https:\/\/regatuljocurilor.ro\/ro\/cos","category":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=category","cms":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=cms","contact":"https:\/\/regatuljocurilor.ro\/ro\/contact","discount":"https:\/\/regatuljocurilor.ro\/ro\/reducere","guest_tracking":"https:\/\/regatuljocurilor.ro\/ro\/urmarire-pentru-oaspeti","history":"https:\/\/regatuljocurilor.ro\/ro\/istoric-comenzi","identity":"https:\/\/regatuljocurilor.ro\/ro\/identitate","index":"https:\/\/regatuljocurilor.ro\/ro\/","my_account":"https:\/\/regatuljocurilor.ro\/ro\/contul-meu","order_confirmation":"https:\/\/regatuljocurilor.ro\/ro\/confirmare-comanda","order_detail":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=order-detail","order_follow":"https:\/\/regatuljocurilor.ro\/ro\/returnari","order":"https:\/\/regatuljocurilor.ro\/ro\/comanda","order_return":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=order-return","order_slip":"https:\/\/regatuljocurilor.ro\/ro\/nota-credit","pagenotfound":"https:\/\/regatuljocurilor.ro\/ro\/pagina-negasita","password":"https:\/\/regatuljocurilor.ro\/ro\/recuperare-parola","pdf_invoice":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/regatuljocurilor.ro\/ro\/reduceri-de-pret","product":"https:\/\/regatuljocurilor.ro\/ro\/index.php?controller=product","search":"https:\/\/regatuljocurilor.ro\/ro\/cautare","sitemap":"https:\/\/regatuljocurilor.ro\/ro\/harta site","stores":"https:\/\/regatuljocurilor.ro\/ro\/magazine","supplier":"https:\/\/regatuljocurilor.ro\/ro\/furnizori","register":"https:\/\/regatuljocurilor.ro\/ro\/autentificare?create_account=1","order_login":"https:\/\/regatuljocurilor.ro\/ro\/comanda?login=1"},"alternative_langs":{"en-us":"https:\/\/regatuljocurilor.ro\/en\/login","ro-ro":"https:\/\/regatuljocurilor.ro\/ro\/autentificare"},"theme_assets":"\/themes\/PRSADD279_01\/assets\/","actions":{"logout":"https:\/\/regatuljocurilor.ro\/ro\/?mylogout="},"no_picture_image":{"bySize":{"cart_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-cart_default.jpg","width":82,"height":100},"small_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-small_default.jpg","width":98,"height":119},"new_product":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-new_product.jpg","width":125,"height":150},"home_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-home_default.jpg","width":190,"height":230},"special_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-special_default.jpg","width":198,"height":264},"medium_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-medium_default.jpg","width":452,"height":547},"large_default":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-large_default.jpg","width":826,"height":1000}},"small":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-cart_default.jpg","width":82,"height":100},"medium":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-home_default.jpg","width":190,"height":230},"large":{"url":"https:\/\/regatuljocurilor.ro\/img\/p\/ro-default-large_default.jpg","width":826,"height":1000},"legend":""}},"configuration":{"display_taxes_label":true,"display_prices_tax_incl":true,"is_catalog":false,"show_prices":true,"opt_in":{"partner":false},"quantity_discount":{"type":"price","label":"Pret per bucata"},"voucher_enabled":1,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Acasa","url":"https:\/\/regatuljocurilor.ro\/ro\/"},{"title":"Intra in contul tau","url":"https:\/\/regatuljocurilor.ro\/ro\/autentificare"}],"count":2},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1669290805,"static_token":"6cf63467592d9cb1faae26d0117d7d49","token":"80422f83319fa0b69c0fdabdbaf022f9","debug":false};
+        var prestashopFacebookAjaxController = "https:\/\/regatuljocurilor.ro\/ro\/module\/ps_facebook\/Ajax";
+        var psemailsubscription_subscription = "https:\/\/regatuljocurilor.ro\/ro\/module\/ps_emailsubscription\/subscription";
+        var psr_icon_color = "#F19D76";
+        var psv = "17";
+        var rc_fancourier_ajax_url = "https:\/\/regatuljocurilor.ro\/ro\/module\/rc_fancourier\/ajax";
+        var rc_fancourier_token_front = "19bafd2ffb50799ae608b501370b69fb";
+        var show_price = false;
+        var wsWishListConst = {"id_wishlist":0};
+      </script>
+
+
+
+  <script type="text/javascript">
+var id_order                = false;
+var baseDir                 = "https://regatuljocurilor.ro/";
+var PS_VERSION              = parseInt("1");
+var PS_REWRITING_SETTINGS   = parseInt("1");
+var token                   = "80422f83319fa0b69c0fdabdbaf022f9";
+var raw_price               = "0";
+var formated_price          = "0";
+
+// labels
+var ok_label                = "O.K";
+var invalid_qty_label       = "Cantitate nevalidă";
+var preorder_label          = "Preordonare disponibilă";
+var added_success_text      = "Produs precomandat cu succes";
+var login_notice            = "Trebuie să fiți conectat pentru a primi notificări.";
+var sub_label               = "Abonat cu succes.";
+var unsub_label             = "Dezabonat cu succes.";
+var added_error_text        = "Limita de precomandă atinsă pentru acest produs.";
+var po_ajax                 = "https://regatuljocurilor.ro/ro/preorder";
+var fmmgifloader            = document.getElementById('loadingAnim');
+var productAvailableForOrder = 0;
+var isProdAvForOrder        = productAvailableForOrder;
+var isSimpleProduct         = 0;
+var _pre_id_attr = 0;
+var IDproduct = 0;
+</script>
+
+
+
+
+<style>.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;background:#fff;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row;padding:0}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:static;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;padding:0;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:1.8em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon .swal2-icon-content{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{flex-basis:auto!important;width:auto;height:auto;margin:0 .3125em;padding:0}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:1.6em;height:3em;transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.8em;left:-.5em;transform:rotate(-45deg);transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;transform-origin:0 1.5em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-toast-animate-success-line-tip .75s;animation:swal2-toast-animate-success-line-tip .75s}.swal2-popup.swal2-toast .swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-toast-animate-success-line-long .75s;animation:swal2-toast-animate-success-line-long .75s}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:swal2-toast-show .5s;animation:swal2-toast-show .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:swal2-toast-hide .1s forwards;animation:swal2-toast-hide .1s forwards}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;transition:background-color .1s;-webkit-overflow-scrolling:touch}.swal2-container.swal2-backdrop-show,.swal2-container.swal2-noanimation{background:rgba(0,0,0,.4)}.swal2-container.swal2-backdrop-hide{background:0 0!important}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-no-transition{transition:none!important}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border:none;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center;padding:0 1.8em}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{display:flex;z-index:1;box-sizing:border-box;flex-wrap:wrap;align-items:center;justify-content:center;width:100%;margin:1.25em auto 0;padding:0 1.6em}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-loader{display:none;align-items:center;justify-content:center;width:2.2em;height:2.2em;margin:0 1.875em;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border-width:.25em;border-style:solid;border-radius:100%;border-color:#3085d6 transparent #3085d6 transparent}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-deny{border:0;border-radius:.25em;background:initial;background-color:#dd6b55;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-timer-progress-bar-container{position:absolute;right:0;bottom:0;left:0;height:.25em;overflow:hidden;border-bottom-right-radius:.3125em;border-bottom-left-radius:.3125em}.swal2-timer-progress-bar{width:100%;height:.25em;background:rgba(0,0,0,.2)}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;z-index:2;top:0;right:0;align-items:center;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{transform:none;background:0 0;color:#f27474}.swal2-close::-moz-focus-inner{border:0}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0 1.6em;color:#545454;font-size:1.125em;font-weight:400;line-height:normal;text-align:center;word-wrap:break-word}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);color:inherit;font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-moz-placeholder,.swal2-input::-moz-placeholder,.swal2-textarea::-moz-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:#fff}.swal2-range input{width:80%}.swal2-range output{width:20%;color:inherit;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:inherit;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:#fff;color:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-input-label{display:flex;justify-content:center;margin:1em auto}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:"!";display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;border:.25em solid transparent;border-radius:50%;font-family:inherit;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon .swal2-icon-content{display:flex;align-items:center;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474;color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;transform:rotate(-45deg)}.swal2-icon.swal2-error.swal2-icon-show{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-icon.swal2-error.swal2-icon-show .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-success{border-color:#a5dc86;color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;transform:rotate(-45deg);transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;transform:rotate(-45deg);transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.8125em;width:1.5625em;transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;transform:rotate(-45deg)}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-icon.swal2-success.swal2-icon-show .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-progress-steps{flex-wrap:wrap;align-items:center;max-width:100%;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;flex-shrink:0;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;flex-shrink:0;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-noanimation{transition:none}.swal2-scrollbar-measure{position:absolute;top:-9999px;width:50px;height:50px;overflow:scroll}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-rtl .swal2-timer-progress-bar{right:0;left:auto}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}@-webkit-keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@keyframes swal2-toast-show{0%{transform:translateY(-.625em) rotateZ(2deg)}33%{transform:translateY(0) rotateZ(-2deg)}66%{transform:translateY(.3125em) rotateZ(2deg)}100%{transform:translateY(0) rotateZ(0)}}@-webkit-keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@keyframes swal2-toast-hide{100%{transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes swal2-toast-animate-success-line-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes swal2-toast-animate-success-line-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@-webkit-keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@keyframes swal2-show{0%{transform:scale(.7)}45%{transform:scale(1.05)}80%{transform:scale(.95)}100%{transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{transform:scale(1);opacity:1}100%{transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.8125em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{transform:rotate(-45deg)}5%{transform:rotate(-45deg)}12%{transform:rotate(-405deg)}100%{transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;transform:scale(.4);opacity:0}50%{margin-top:1.625em;transform:scale(.4);opacity:0}80%{margin-top:-.375em;transform:scale(1.15)}100%{margin-top:0;transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{transform:rotateX(100deg);opacity:0}100%{transform:rotateX(0);opacity:1}}@-webkit-keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-container{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent!important}body.swal2-no-backdrop .swal2-container>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-container.swal2-top{top:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-top-left,body.swal2-no-backdrop .swal2-container.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-top-end,body.swal2-no-backdrop .swal2-container.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-container.swal2-center{top:50%;left:50%;transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-left,body.swal2-no-backdrop .swal2-container.swal2-center-start{top:50%;left:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-center-end,body.swal2-no-backdrop .swal2-container.swal2-center-right{top:50%;right:0;transform:translateY(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom{bottom:0;left:50%;transform:translateX(-50%)}body.swal2-no-backdrop .swal2-container.swal2-bottom-left,body.swal2-no-backdrop .swal2-container.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-container.swal2-bottom-end,body.swal2-no-backdrop .swal2-container.swal2-bottom-right{right:0;bottom:0}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:static!important}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}</style><style type="text/css">.fancybox-margin{margin-right:17px;}</style></head><body class="lang-ro country-ro currency-ron layout-both-columns page-authentication tax-display-enabled page-customer-account" id="authentication"><div id="hwc_display_template" style="display:  none; ">
+            <script src="https://www.google.com/recaptcha/api.js?render="></script>
+        <input type="hidden" id="hwc_public_key" value="">
+        <input type="hidden" id="hwc_token" name="hwc_token">
+        <script>
+            var grecaptchav3_sitekey =document.getElementById("hwc_public_key").value;
+
+            grecaptcha.ready(function() {
+                grecaptcha.execute('').then(function(token) {
+                    document.getElementById("hwc_token").value = token;
+                });
+                setInterval(() => {
+                    grecaptcha.execute('').then(function(token) {
+                        document.getElementById("hwc_token").value = token;
+                    });
+                }, 60000);
+            });
+        </script>
+    </div>
+    <script>
+        processTryCatch();
+        function processTryCatch(intevalOnload = false) {
+            try {
+                loadJquery(intevalOnload);
+            }catch (e) {
+                var intevalOnload = setInterval(function () {
+                    processTryCatch(intevalOnload);
+                }, 1000);
+            }
+        }
+
+        function loadJquery(intevalOnload) {
+            $(document).ready(function () {
+                if(intevalOnload)
+                    clearInterval(intevalOnload);
+
+                if("authentication" == 'authentication')
+                {
+                                        if( $("#login-form .forgot-password").length > 0 && "0" == 1){
+                        $("#login-form .forgot-password").prepend(hwc_display_template);
+                        $("#login-form #hwc_display_template").css("display", "block");
+                    }else if($("#customer-form").length > 0 && "0" == 1){
+                        appendRecaptcha("#customer-form section", "#customer-form section #hwc_display_template");
+                    }
+                                    }else if("authentication" == 'contact'){
+                    appendRecaptcha(".contact-form form .form-fields", ".contact-form form .form-fields #hwc_display_template");
+                }else if("authentication" == 'password'){
+                    appendRecaptcha(".forgotten-password .form-fields", ".forgotten-password .form-fields #hwc_display_template");
+                }
+            })
+        }
+
+        function appendRecaptcha(source, html){
+            const hwc_display_template = $("#hwc_display_template");
+            if($(source).length > 0){
+                $(source).append(hwc_display_template);
+                $(html).css("display", "block");
+            }
+        }
+    </script>
+
+<script>
+    const wsWlProducts = '[]';
+    const single_mode = "";
+    const advansedwishlist_ajax_controller_url = "https://regatuljocurilor.ro/ro/module/advansedwishlist/ajax";
+    const added_to_wishlist = 'The product was successfully added to your wishlist.';
+    const add_to_cart_btn = 'Add to cart';
+    const show_btn_tex = '';
+    const added_to_wishlist_btn = 'Added to wishlist';
+    const add_to_wishlist_btn = 'Add to wishlist';
+    const wishlistSendTxt = 'Your wishlist has been sent successfully';
+    const productUpdTxt = 'The product has been successfully updated';
+    const wsWishlistUrlRewrite = "1";
+    let wishlist_btn_icon = '<i class="material-icons">favorite</i>';
+    let wishlist_btn_icon_del = '<i class="material-icons">favorite_border</i>';
+    var ps_ws_version = 'ps17';
+        var static_token = '6cf63467592d9cb1faae26d0117d7d49';
+    var baseDir = "https://regatuljocurilor.ro/";    
+    var isLogged = "";
+</script>
+
+
+
+    
+  
+
+  
+
+    
+    
+    
+
+    <main id="page">
+      
+              
+
+      <header id="header">
+        
+          
+
+  <div class="header-banner">
+
+    
+
+  </div>
+
+
+
+
+
+
+
+<nav class="header-nav">
+
+	<div class="container">
+
+        	
+
+
+		<div class="hidden-md-down">
+
+			<div class="left-nav">
+									<div id="_desktop_currency_selector">
+  <div class="currency-selector dropdown js-dropdown">
+    <!--<span>Moneda</span>-->
+    <span class="expand-more _gray-darker hidden-md-down" data-toggle="dropdown">Moneda : RON</span>
+    <a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="hidden-md-down" aria-label="Lista monede">
+     <i class="material-icons expand-more"></i>
+    </a>
+    <ul class="dropdown-menu hidden-md-down" aria-labelledby="currency-selector-label">
+              <li>
+          <a title="Euro" rel="nofollow" href="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">€ EUR</a>
+        </li>
+              <li class="current">
+          <a title="Leu românesc" rel="nofollow" href="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">RON RON</a>
+        </li>
+              <li>
+          <a title="US Dollar" rel="nofollow" href="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=3" class="dropdown-item">$ USD</a>
+        </li>
+          </ul>
+    <select class="link hidden-lg-up" aria-labelledby="currency-selector-label">
+              <option value="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=2">€ EUR</option>
+              <option value="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=1" selected="selected">RON RON</option>
+              <option value="https://regatuljocurilor.ro/ro/autentificare?SubmitCurrency=1&amp;id_currency=3">$ USD</option>
+          </select>
+  </div>
+</div><div id="_desktop_language_selector">
+  <div class="language-selector-wrapper">
+    <!--<span class="hidden-md-up">Limba</span>-->
+    <div class="language-selector dropdown js-dropdown">
+      <span class="expand-more hidden-md-down" data-toggle="dropdown">Limba : ro</span>
+      <a data-target="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="hidden-md-down">
+        <i class="material-icons expand-more"></i>
+      </a>
+      <ul class="dropdown-menu hidden-md-down">
+                  <li>
+            <a href="https://regatuljocurilor.ro/en/login" class="dropdown-item"><img src="/img/l/1.jpg" alt="en" width="16" height="11">English</a>
+          </li>
+                  <li class="current">
+            <a href="https://regatuljocurilor.ro/ro/autentificare" class="dropdown-item"><img src="/img/l/2.jpg" alt="ro" width="16" height="11">Română</a>
+          </li>
+              </ul>
+      <select class="link hidden-lg-up">
+                  <option value="https://regatuljocurilor.ro/en/login">English</option>
+                  <option value="https://regatuljocurilor.ro/ro/autentificare" selected="selected">Română</option>
+              </select>
+    </div>
+  </div>
+</div>
+				
+			</div>
+
+
+
+		</div>
+
+			
+
+			<div class="right-nav">
+
+				<div id="_desktop_user_info">
+  <div class="tm_userinfotitle">
+    Contul meu
+    <i class="material-icons expand-more"></i>
+  </div>
+  
+  <ul class="user-info">
+          <a href="https://regatuljocurilor.ro/ro/contul-meu" title="Intra in contul tau" rel="nofollow">
+        <i class="material-icons"></i>
+        <span class="hidden-md-down">Intra in cont</span>
+      </a>
+        
+</ul></div><div id="_desktop_cart">
+
+  <div class="blockcart cart-preview inactive" data-refresh-url="//regatuljocurilor.ro/ro/module/ps_shoppingcart/ajax">
+
+    <div class="header blockcart-header dropdown js-dropdown">
+
+	 
+
+		<a class="carthome" rel="nofollow" href="//regatuljocurilor.ro/ro/cos?action=show"> 
+
+			<!-- <i class="material-icons shopping-cart"></i> -->
+
+			<!-- <span class="hidden-md-down">Cos</span> -->
+
+			<span class="cart-products-counthome">0</span>
+
+			
+
+			
+
+		</a>
+
+		<a rel="nofollow" class="cart_custom" href="//regatuljocurilor.ro/ro/cos?action=show"> 
+
+			<!-- <i class="material-icons shopping-cart">shopping_cart</i> -->
+
+			<span class="hidden-md-down cart-shoptext">Cosul meu</span>
+
+			<span class="cart-products-count cart-count-producttext">0,00&nbsp;RON</span>
+
+			
+
+		</a>
+
+		 		
+
+	  
+    </div>
+
+  </div>
+
+</div>
+
+
+
+			</div>
+
+		</div>
+
+			
+
+			<div class="hidden-lg-up container  mobile">
+
+				
+
+			  	<div class="menu-container">
+
+				    <div class="menu-icon">
+
+				     <div class="cat-title"> <i class="material-icons menu-open"></i></div>
+
+				    </div>
+
+				</div>
+
+
+
+				<div class="top-logo" id="_mobile_logo"></div>
+
+				<div class="pull-xs-right" id="_mobile_cart"></div>
+
+				<div class="pull-xs-right" id="_mobile_user_info"></div>
+
+				<div class="clearfix"></div>   
+
+			</div>
+
+</nav>
+
+
+
+
+
+
+
+	<div class="header-top">
+
+
+
+	<div class="header-div">
+
+		<div class="container">
+
+		<div class="header_logo hidden-md-down" id="_desktop_logo">
+
+				<a href="https://regatuljocurilor.ro/">
+
+				<img class="logo img-responsive" src="https://regatuljocurilor.ro/img/regatul-jocurilor-logo-1630002296.jpg" alt="Regatul Jocurilor">
+
+				</a>
+
+			</div>
+
+		
+						   <a class="banner hidden-sm-down" href="http://regatuljocurilor.ro" title="">
+      <img src="https://regatuljocurilor.ro/modules/ps_banner/img/dbc3c0d57653ddab5827a9edf2ce972d.png" alt="" title="" class="img-fluid">
+  </a>
+<style>
+    .wishlist i,
+    .wish_link i {
+        color: #ff5134;
+    }
+</style>
+<div id="block_wishlist_top">            <div class="wish_link  wish_link_17">
+                                        <i class="material-icons">favorite</i>
+                        <div class="allert_note">Trebuie sa te autentifici
+                <p class="login_links">
+                    <a class="inline" href="https://regatuljocurilor.ro/ro/contul-meu">Intra in cont</a> | <a class="inline" href="https://regatuljocurilor.ro/ro/autentificare?create_account=1">Cont nou</a>
+                </p>
+            </div>
+
+        </div>
+        </div><div id="tm_ajax_search-new" class="btn-group compact-hidden">	
+	<span class="search_button"></span> 
+	<div class="searchtoggle">
+	<form method="get" action="https://regatuljocurilor.ro/ro/cautare" id="searchbox">
+		<input type="hidden" name="controller" value="search">
+		<input type="hidden" name="orderby" value="position">
+		<input type="hidden" name="orderway" value="desc">
+		<input type="text" id="ajax_search" name="search_query" placeholder="Cauta un produs..." class="form-control">		
+		<button type="submit" name="submit_search" class="btn btn-default button-search">
+				<span>Cauta</span>
+		</button>
+	</form>
+	</div>
+	<div id="tm_search_result">
+	</div>	
+</div>
+			
+			
+			<div class="head-wishlist">
+
+				<a class="ap-btn-wishlist" href="//regatuljocurilor.ro/ro/module/stfeature/mywishlist" title="Wishlist" rel="nofollow">
+
+				<i class="material-icons"></i>
+
+				<span>Wishlist</span>
+
+				<!-- <span class="ap-total-wishlist ap-total"></span> -->
+
+				</a>
+
+    		</div>
+
+
+
+
+
+
+
+			<div class="head-compare">
+
+				<a class="ap-btn-compare" href="//regatuljocurilor.ro/ro/module/stfeature/productscompare" title="Compara" rel="nofollow">
+
+					<i class="material-icons"></i>
+
+					<span>Compara</span>
+
+					<!-- <span class="ap-total-compare ap-total"></span> -->
+
+				</a>
+
+			</div>
+
+			<div id="mobile_top_menu_wrapper" class="row hidden-lg-up">
+
+			      <div class="mobile-menu-inner">
+
+			        <div class="menu-icon">
+
+			       <div class="cat-title title2">   <i class="material-icons menu-close"></i> </div>
+
+			        </div>	
+
+			        <div class="js-top-menu mobile" id="_mobile_top_menu"></div>
+
+						<div id="_mobile_currency_selector"></div>
+
+						<div id="_mobile_language_selector"></div>
+
+						
+
+					</div>
+
+				</div>
+
+
+
+			</div>
+
+		</div>
+
+<!-- <div class="header-top-main bg_main">
+
+			<div class="container">
+
+				<div class="header_extra"></div>
+
+				  
+
+		</div>
+
+		</div> -->
+
+		
+
+	</div>
+
+
+
+
+
+        
+      </header>
+
+      
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+
+	  <section id="wrapper">  
+
+        
+   
+		<div class="container">	
+		  
+          <div id="columns_inner"><div id="left-column" class="col-xs-12 col-sm-4 col-md-3 hb-animate-element top-to-bottom">
+                                          <div id="tm_vertical_menu_top" class="tmvm-contener clearfix col-lg-12  hb-animate-element top-to-bottom">
+<div class="block-title">
+		<i class="material-icons menu-open"></i>
+		<div class="menu-title">Categorii</div>
+		
+		</div>
+
+
+<div class="menu vertical-menu js-top-menu position-static hidden-sm-down" id="_desktop_top_menu">
+    
+  <ul class="tm_sf-menu top-menu" id="top-menu" data-depth="0"><li class="category main menu-1" id="tmcategory-230"><a href="https://regatuljocurilor.ro/ro/de-carti" class="dropdown-item" data-depth="0">De Carti</a></li><li class="category main menu-2" id="tmcategory-231"><a href="https://regatuljocurilor.ro/ro/tematice" class="dropdown-item" data-depth="0">Tematice</a></li><li class="category main menu-3" id="tmcategory-232"><a href="https://regatuljocurilor.ro/ro/cu-reguli-putine" class="dropdown-item" data-depth="0">Cu Reguli Putine</a></li><li class="category main menu-4" id="tmcategory-233"><a href="https://regatuljocurilor.ro/ro/cooperative" class="dropdown-item" data-depth="0">Cooperative</a></li><li class="category main menu-5" id="tmcategory-234"><a href="https://regatuljocurilor.ro/ro/pentru-copii" class="dropdown-item" data-depth="0">Pentru Copii</a></li><li class="category main menu-6" id="tmcategory-235"><a href="https://regatuljocurilor.ro/ro/2-jucatori" class="dropdown-item" data-depth="0">2 jucatori</a></li><li class="category main menu-7" id="tmcategory-236"><a href="https://regatuljocurilor.ro/ro/logice-abstracte" class="dropdown-item" data-depth="0">Logice/Abstracte</a></li><li class="category main menu-8" id="tmcategory-237"><a href="https://regatuljocurilor.ro/ro/razboi" class="dropdown-item" data-depth="0">Razboi</a></li><li class="category main menu-9" id="tmcategory-238"><a href="https://regatuljocurilor.ro/ro/de-buzunar" class="dropdown-item" data-depth="0">De Buzunar</a></li><li class="category main menu-10" id="tmcategory-239" style="display: none;"><a href="https://regatuljocurilor.ro/ro/in-familie" class="dropdown-item" data-depth="0">In Familie</a></li><li class="category main menu-11" id="tmcategory-240" style="display: none;"><a href="https://regatuljocurilor.ro/ro/incepatori" class="dropdown-item" data-depth="0">Incepatori</a></li><li class="category main menu-12" id="tmcategory-241" style="display: none;"><a href="https://regatuljocurilor.ro/ro/in-limba-romana" class="dropdown-item" data-depth="0">In Limba Romana</a></li><li class="category main menu-13" id="tmcategory-242" style="display: none;"><a href="https://regatuljocurilor.ro/ro/extensii" class="dropdown-item" data-depth="0">Extensii</a></li><li class="category main menu-14" id="tmcategory-243" style="display: none;"><a href="https://regatuljocurilor.ro/ro/accesorii" class="dropdown-item" data-depth="0">Accesorii</a></li><li class="category main menu-15" id="tmcategory-244" style="display: none;"><a href="https://regatuljocurilor.ro/ro/magic-the-gathering" class="dropdown-item" data-depth="0">Magic the Gathering</a></li><li class="category main menu-16" id="tmcategory-245" style="display: none;"><a href="https://regatuljocurilor.ro/ro/rpgs" class="dropdown-item" data-depth="0">RPGs</a></li><li class="category main menu-17" id="tmcategory-246" style="display: none;"><a href="https://regatuljocurilor.ro/ro/puzzle-and-hobby" class="dropdown-item" data-depth="0"><span class="pull-xs-right  hidden-sm-down"><i class="material-icons left"></i><i class="material-icons right"></i></span><span class="pull-xs-right hidden-lg-up"><span data-target="#top_sub_menu_14055" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add"></i><i class="material-icons remove"></i></span></span>Puzzle and Hobby</a><div class="popover sub-menu js-sub-menu collapse threecolumn" id="top_sub_menu_14055">
+  <ul class="tm_sf-menu top-menu" data-depth="1"><li class="category " id="tmcategory-247"><a href="https://regatuljocurilor.ro/ro/painting-coloring" class="dropdown-item dropdown-submenu" data-depth="1">Painting/Coloring</a></li><li class="category " id="tmcategory-248"><a href="https://regatuljocurilor.ro/ro/rubik" class="dropdown-item dropdown-submenu" data-depth="1">Rubik</a></li><li class="category " id="tmcategory-249"><a href="https://regatuljocurilor.ro/ro/elastice-looms" class="dropdown-item dropdown-submenu" data-depth="1">Elastice (Looms)</a></li><li class="category " id="tmcategory-250"><a href="https://regatuljocurilor.ro/ro/play-doh" class="dropdown-item dropdown-submenu" data-depth="1">Play Doh</a></li><li class="category " id="tmcategory-251"><a href="https://regatuljocurilor.ro/ro/puzzle" class="dropdown-item dropdown-submenu" data-depth="1">Puzzle</a></li><li class="category " id="tmcategory-253"><a href="https://regatuljocurilor.ro/ro/nisip-colorat-sablimage" class="dropdown-item dropdown-submenu" data-depth="1">Nisip colorat - Sablimage</a></li><li class="category " id="tmcategory-254"><a href="https://regatuljocurilor.ro/ro/nisip-de-modelaj" class="dropdown-item dropdown-submenu" data-depth="1">Nisip de modelaj</a></li><li class="category " id="tmcategory-271"><a href="https://regatuljocurilor.ro/ro/kendama" class="dropdown-item dropdown-submenu" data-depth="1">Kendama</a></li><li class="category " id="tmcategory-273"><a href="https://regatuljocurilor.ro/ro/diverse" class="dropdown-item dropdown-submenu" data-depth="1">Diverse</a></li><li class="category " id="tmcategory-274"><a href="https://regatuljocurilor.ro/ro/geomag" class="dropdown-item dropdown-submenu" data-depth="1">Geomag</a></li><li class="category " id="tmcategory-275"><a href="https://regatuljocurilor.ro/ro/plastilina-inteligenta" class="dropdown-item dropdown-submenu" data-depth="1">Plastilina Inteligentă</a></li><li class="category " id="tmcategory-276"><a href="https://regatuljocurilor.ro/ro/figurine" class="dropdown-item dropdown-submenu" data-depth="1">Figurine</a></li><li class="category " id="tmcategory-277"><a href="https://regatuljocurilor.ro/ro/playmobil" class="dropdown-item dropdown-submenu" data-depth="1">Playmobil</a></li></ul><div class="menu-images-container"></div></div></li><li class="category main menu-18" id="tmcategory-252" style="display: none;"><a href="https://regatuljocurilor.ro/ro/lego" class="dropdown-item" data-depth="0"><span class="pull-xs-right  hidden-sm-down"><i class="material-icons left"></i><i class="material-icons right"></i></span><span class="pull-xs-right hidden-lg-up"><span data-target="#top_sub_menu_88366" data-toggle="collapse" class="navbar-toggler collapse-icons"><i class="material-icons add"></i><i class="material-icons remove"></i></span></span>LEGO</a><div class="popover sub-menu js-sub-menu collapse threecolumn" id="top_sub_menu_88366">
+  <ul class="tm_sf-menu top-menu" data-depth="1"><li class="category " id="tmcategory-255"><a href="https://regatuljocurilor.ro/ro/lego-star-wars" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Star Wars</a></li><li class="category " id="tmcategory-256"><a href="https://regatuljocurilor.ro/ro/lego-city" class="dropdown-item dropdown-submenu" data-depth="1">LEGO City</a></li><li class="category " id="tmcategory-257"><a href="https://regatuljocurilor.ro/ro/lego-friends" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Friends</a></li><li class="category " id="tmcategory-258"><a href="https://regatuljocurilor.ro/ro/lego-duplo" class="dropdown-item dropdown-submenu" data-depth="1">LEGO DUPLO</a></li><li class="category " id="tmcategory-259"><a href="https://regatuljocurilor.ro/ro/lego-technic" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Technic</a></li><li class="category " id="tmcategory-260"><a href="https://regatuljocurilor.ro/ro/lego-disney-princess" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Disney Princess</a></li><li class="category " id="tmcategory-261"><a href="https://regatuljocurilor.ro/ro/lego-classic" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Classic</a></li><li class="category " id="tmcategory-262"><a href="https://regatuljocurilor.ro/ro/lego-juniors" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Juniors</a></li><li class="category " id="tmcategory-263"><a href="https://regatuljocurilor.ro/ro/lego-creator" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Creator</a></li><li class="category " id="tmcategory-264"><a href="https://regatuljocurilor.ro/ro/lego-speed-champions" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Speed Champions</a></li><li class="category " id="tmcategory-265"><a href="https://regatuljocurilor.ro/ro/lego-ninjago" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Ninjago</a></li><li class="category " id="tmcategory-266"><a href="https://regatuljocurilor.ro/ro/lego-nexo-knights" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Nexo Knights</a></li><li class="category " id="tmcategory-267"><a href="https://regatuljocurilor.ro/ro/lego-dc-super-heroes" class="dropdown-item dropdown-submenu" data-depth="1">LEGO DC Super Heroes</a></li><li class="category " id="tmcategory-268"><a href="https://regatuljocurilor.ro/ro/lego-architecture" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Architecture</a></li><li class="category " id="tmcategory-278"><a href="https://regatuljocurilor.ro/ro/lego-jurassic-world" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Jurassic World</a></li><li class="category " id="tmcategory-280"><a href="https://regatuljocurilor.ro/ro/lego-the-lego-movie" class="dropdown-item dropdown-submenu" data-depth="1">LEGO The Lego Movie</a></li><li class="category " id="tmcategory-282"><a href="https://regatuljocurilor.ro/ro/lego-special-plus" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Special Plus</a></li><li class="category " id="tmcategory-283"><a href="https://regatuljocurilor.ro/ro/lego-knights" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Knights</a></li><li class="category " id="tmcategory-284"><a href="https://regatuljocurilor.ro/ro/lego-wild-life" class="dropdown-item dropdown-submenu" data-depth="1">LEGO Wild life</a></li></ul><div class="menu-images-container"></div></div></li><li class="category main menu-19" id="tmcategory-269" style="display: none;"><a href="https://regatuljocurilor.ro/ro/precomenzi" class="dropdown-item" data-depth="0">Precomenzi</a></li><li class="category main menu-20" id="tmcategory-270" style="display: none;"><a href="https://regatuljocurilor.ro/ro/strategie" class="dropdown-item" data-depth="0">Strategie</a></li><li class="category main menu-21" id="tmcategory-272" style="display: none;"><a href="https://regatuljocurilor.ro/ro/educative" class="dropdown-item" data-depth="0">Educative</a></li><li class="category main menu-22" id="tmcategory-279" style="display: none;"><a href="https://regatuljocurilor.ro/ro/essen-2019" class="dropdown-item" data-depth="0">Essen 2019</a></li><li class="category main menu-23" id="tmcategory-281" style="display: none;"><a href="https://regatuljocurilor.ro/ro/essen-2020" class="dropdown-item" data-depth="0">Essen 2020</a></li><li><div class="more-wrap"><span class="more-view">Mai multe categorii<i class="material-icons"></i></span></div></li></ul>
+</div>
+
+</div><div class="sidebar-latest block">
+  <h4 class="block_title hidden-md-down">Produse noi</h4>
+  <h4 class="block_title hidden-lg-up" data-target="#block_latest_toggle" data-toggle="collapse">Produse noi
+    <span class="pull-xs-right">
+      <span class="navbar-toggler collapse-icons">
+      <i class="material-icons add"></i>
+      <i class="material-icons remove"></i>
+      </span>
+    </span>
+  </h4>
+  <div class="block_content collapse" id="block_latest_toggle"> 
+  <div class="products clearfix">
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/acasa/carcassonne-big-box-6-2022-romanian-edition" class="thumbnail product-thumbnail">
+        <img class=" ls-is-cached lazyloaded" data-src="https://regatuljocurilor.ro/130456-cart_default/carcassonne-big-box-6-2022-romanian-edition.jpg" alt="" src="https://regatuljocurilor.ro/130456-cart_default/carcassonne-big-box-6-2022-romanian-edition.jpg">
+      </a>
+    
+    </div>
+
+  <div class="right-part">
+  <div class="product-description">
+     
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <span class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/acasa/carcassonne-big-box-6-2022-romanian-edition">Carcassonne Big Box 6...</a></span>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">239,00&nbsp;RON</span>
+                                              
+           
+           
+        </div>
+                
+</div>
+  
+    </div>
+    </div>
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/educative/raspundel-istetel-lumea-animalelor-carte-interactiva" class="thumbnail product-thumbnail">
+        <img class=" ls-is-cached lazyloaded" data-src="https://regatuljocurilor.ro/111648-cart_default/raspundel-istetel-lumea-animalelor-carte-interactiva.jpg" alt="legend" src="https://regatuljocurilor.ro/111648-cart_default/raspundel-istetel-lumea-animalelor-carte-interactiva.jpg">
+      </a>
+    
+    </div>
+
+  <div class="right-part">
+  <div class="product-description">
+     
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <span class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/educative/raspundel-istetel-lumea-animalelor-carte-interactiva">Raspundel Istetel:...</a></span>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">99,00&nbsp;RON</span>
+                                              
+           
+           
+        </div>
+                
+</div>
+  
+    </div>
+    </div>
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/educative/raspundel-istetel-engleza-si-joc-in-acelasi-joc-creion-inclus" class="thumbnail product-thumbnail">
+        <img class=" ls-is-cached lazyloaded" data-src="https://regatuljocurilor.ro/111647-cart_default/raspundel-istetel-engleza-si-joc-in-acelasi-joc-creion-inclus.jpg" alt="legend" src="https://regatuljocurilor.ro/111647-cart_default/raspundel-istetel-engleza-si-joc-in-acelasi-joc-creion-inclus.jpg">
+      </a>
+    
+    </div>
+
+  <div class="right-part">
+  <div class="product-description">
+     
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <span class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/educative/raspundel-istetel-engleza-si-joc-in-acelasi-joc-creion-inclus">Raspundel Istetel:...</a></span>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">349,00&nbsp;RON</span>
+                                              
+           
+           
+        </div>
+                
+</div>
+  
+    </div>
+    </div>
+      </div>
+  <div class="clearfix">
+  <a href="https://regatuljocurilor.ro/ro/index.php?controller=new-products" class="allproducts btn btn-primary">Toate produsele</a>
+  </div>
+  </div>
+</div>
+
+<div id="tmtestimonialcmsblock" class="testimonial block">
+
+<h4 class="block_title hidden-md-down">Reviews</h4>
+
+
+
+		<h4 class="block_title hidden-lg-up" data-target="#testimonialtoggle" data-toggle="collapse">client says
+
+			<span class="pull-xs-right">
+
+			      <span class="navbar-toggler collapse-icons">
+
+			      <i class="material-icons add"></i>
+
+			      <i class="material-icons remove"></i>
+
+			      </span>
+
+		    </span>
+
+	  	</h4>
+
+
+
+<div class="testimonial_inner block_content collapse" id="testimonialtoggle">
+
+
+
+		<div class="testimonial_inner">
+<ul id="testimonial_carousel" class="tm-carousel product_list owl-carousel owl-theme" style="opacity: 1; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 1176px; left: 0px; display: block;"><div class="owl-item" style="width: 196px;"><li class="item">
+<div class="peoplesay-block">
+<div class="test-content">
+<div class="cms-box-heading"><a class="test-name" href="#">Pricopie Marian</a>client</div>
+</div>
+<div class="test-desc">
+<p>Ieftin! Super rapid! Recomand!</p>
+</div>
+</div>
+</li></div><div class="owl-item" style="width: 196px;"><li class="item">
+<div class="peoplesay-block">
+<div class="test-content">
+<div class="cms-box-heading"><a class="test-name" href="#">George Ionut</a>client</div>
+</div>
+<div class="test-desc">
+<p>Varietate incredibil de mare de jocuri si jcuarii! Recomand cu incredere!</p>
+</div>
+</div>
+</li></div><div class="owl-item" style="width: 196px;"><li class="item">
+<div class="peoplesay-block">
+<div class="test-content">
+<div class="cms-box-heading"><a class="test-name" href="#">Virgil Laurentiu</a>achizitie verificata</div>
+</div>
+<div class="test-desc">
+<p>Am comandat de la ei prin telefon, nu ma prea pricep eu cu internetul. Am fost foarte multumit de suportul oferit , nota 10 pentru doamna Mihaela!</p>
+</div>
+</div>
+</li></div></div></div>
+
+
+<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></ul>
+</div>
+
+</div> 
+
+</div>
+
+
+
+<div class="sidebar-featured block">
+
+<h4 class="block_title hidden-md-down">Cele mai vizualizate</h4>
+  <h4 class="block_title hidden-lg-up" data-target="#block_latest_toggle_feature" data-toggle="collapse">Cele mai vizualizate
+    <span class="pull-xs-right">
+      <span class="navbar-toggler collapse-icons">
+      <i class="material-icons add"></i>
+      <i class="material-icons remove"></i>
+      </span>
+    </span>
+    </h4>
+  
+ <div class="block_content collapse" id="block_latest_toggle_feature"> 
+  <div class="products clearfix">
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/strategie/ark-nova-english-edition" class="thumbnail product-thumbnail">
+        <img class="lazyload" data-src="https://regatuljocurilor.ro/8837-cart_default/ark-nova-english-edition.jpg" alt="legend">
+      </a>
+    
+    </div>
+
+<div class="right-part">
+<div class="product-description">
+   
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/strategie/ark-nova-english-edition">Ark Nova (English Edition)</a></h1>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">299,00&nbsp;RON</span>
+                           
+                <!--  -->
+                                                          
+                <span class="sr-only">Pret intreg</span>
+                    <span class="regular-price">339,00&nbsp;RON</span>
+                                        
+           
+           
+        </div>
+                
+  </div>
+
+
+    </div>
+    </div>
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/extensii/betrayal-at-house-on-the-hill-upgrade-pack" class="thumbnail product-thumbnail">
+        <img class="lazyload" data-src="https://regatuljocurilor.ro/5242-cart_default/betrayal-at-house-on-the-hill-upgrade-pack.jpg" alt="legend">
+      </a>
+    
+    </div>
+
+<div class="right-part">
+<div class="product-description">
+   
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/extensii/betrayal-at-house-on-the-hill-upgrade-pack">Betrayal at House on the...</a></h1>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">59,00&nbsp;RON</span>
+                                              
+           
+           
+        </div>
+                
+  </div>
+
+
+    </div>
+    </div>
+        <div class="product-item">
+    <div class="left-part">
+      
+      <a href="https://regatuljocurilor.ro/ro/acasa/carcassonne-big-box-6-2022-romanian-edition" class="thumbnail product-thumbnail">
+        <img class="lazyload" data-src="https://regatuljocurilor.ro/130456-cart_default/carcassonne-big-box-6-2022-romanian-edition.jpg" alt="">
+      </a>
+    
+    </div>
+
+<div class="right-part">
+<div class="product-description">
+   
+      <div class="comments_note">
+    
+        <div class="star_content clearfix">
+                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                                                <div class="star"></div>
+                                    </div>
+        <!-- <span>%s Review(s)&nbsp</span> -->
+ 
+</div>
+      
+      
+      
+        <h1 class="h3 product-title" itemprop="name"><a href="https://regatuljocurilor.ro/ro/acasa/carcassonne-big-box-6-2022-romanian-edition">Carcassonne Big Box 6 (2022...</a></h1>
+      
+
+      
+    
+                <div class="product-price-and-shipping">
+           <span class="price">239,00&nbsp;RON</span>
+                                              
+           
+           
+        </div>
+                
+  </div>
+
+
+    </div>
+    </div>
+      </div>
+  <a href="https://regatuljocurilor.ro/ro/acasa" class="allproducts">Toate produsele</a>
+  </div>
+</div>
+<div id="advansedwishlist_block" id-wishlist="0" class="block account hidden-sm-down advansedwishlist_17">
+    <h4 class="title_block">
+        <a href="https://regatuljocurilor.ro/ro/module/advansedwishlist/mywishlist" title="Lista mea de favorite" rel="nofollow">Lista de favorite</a>
+    </h4>
+    <div class="block_content">
+        <div id="ws_wishlist_block_list" data-type-page="category" class="ws_wishlist_product_list">
+                            <dl class="wishlist_block_no_products">
+                    <dt>Nici un produs</dt>
+                </dl>
+                    </div>
+            </div>
+</div>
+                                      </div>
+      		  
+                  
+                
+
+          
+            <div id="content-wrapper" class="left-column right-column col-sm-4 col-md-6">
+                <div class="topcolumntop">
+                    <!-- Block links module -->
+
+<!-- /Block links module -->
+
+                <div id="links_block_top" class="block links">
+	<h3 class="h3 title_block ">
+		<i class="material-icons"></i>
+	</h3>
+	
+		
+	<ul id="tm_toplink" class="block_content">
+			 
+			<li>
+				<a href="https://regatuljocurilor.ro/index.php" title="Acasa">Acasa</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/index.php?controller=new-products" title="Produse Noi">Produse Noi</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/revenit-in-stoc" title="Revenite in stoc">Revenite in stoc</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/index.php?controller=prices-drop" title="Promotii">Promotii</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/index.php?id_cms=1&amp;controller=cms" title="Livrare si Plata">Livrare si Plata</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/index.php?controller=contact" title="Contact">Contact</a></li>
+					 
+			<li>
+				<a href="https://regatuljocurilor.ro/ro/content/Fidelizare" title="Fidelizare">Fidelizare</a></li>
+				</ul>
+</div></div>
+              
+                         
+                  <div id="breadcrumb_wrapper" class="">       
+                      
+                         <nav data-depth="2" class="breadcrumb hidden-sm-down">
+   <div class="container"><h1 class="h1">
+  Intra in contul tau
+</h1>
+  <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+    
+          
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://regatuljocurilor.ro/ro/">
+          <span itemprop="name">Acasa</span>
+        </a>
+        <meta itemprop="position" content="1">
+      </li>
+      
+          
+      <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+        <a itemprop="item" href="https://regatuljocurilor.ro/ro/autentificare">
+          <span itemprop="name">Intra in contul tau</span>
+        </a>
+        <meta itemprop="position" content="2">
+      </li>
+      
+        
+  </ol>
+  </div>
+</nav>
+                        
+                    </div>
+                   
+              
+              
+
+  <section id="main">
+
+    
+      
+        <header class="page-header">
+          
+        </header>
+      
+    
+
+    
+      <section id="content" class="page-content card card-block">
+        
+        
+    
+      <section class="login-form">
+        
+
+  
+      <div class="help-block">
+    
+    <ul>
+                <li class="alert alert-danger">Autentificare esuata.</li>
+          </ul>
+    
+  </div>
+  
+
+  <form id="login-form" action="https://regatuljocurilor.ro/ro/autentificare?back=my-account" method="post">
+
+    <section>
+      
+                  
+            
+  
+  <input type="hidden" name="back" value="my-account">
+  
+
+
+          
+                  
+            
+  <div class="form-group row ">
+    <label class="col-md-3 form-control-label required">
+              E-mail
+          </label>
+    <div class="col-md-6">
+
+      
+        
+        <input class="form-control" name="email" type="email" value="sabrina.groza@gmail.com" required="">
+                
+
+      
+      
+            
+
+    </div>
+
+    <div class="col-md-3 form-control-comment">
+      
+            
+    </div>
+  </div>
+
+
+          
+                  
+            
+  <div class="form-group row ">
+    <label class="col-md-3 form-control-label required">
+              Parola
+          </label>
+    <div class="col-md-6">
+
+      
+        
+        <div class="input-group js-parent-focus">
+          <input class="form-control js-child-focus js-visible-password" name="password" type="password" value="" pattern=".{5,}" required="">
+          <span class="input-group-btn">
+            <button class="btn" type="button" data-action="show-password" data-text-show="Arata" data-text-hide="Ascunde">
+              Arata
+            </button>
+          </span>
+        </div>
+        
+
+      
+      
+            
+
+    </div>
+
+    <div class="col-md-3 form-control-comment">
+      
+            
+    </div>
+  </div>
+
+
+          
+              
+      <div class="forgot-password">
+        <a href="https://regatuljocurilor.ro/ro/recuperare-parola" rel="nofollow">
+          Ai uitat parola?
+        </a>
+      </div>
+    </section>
+
+    
+      <footer class="form-footer text-xs-center clearfix">
+        <input type="hidden" name="submitLogin" value="1">
+        
+          <button id="submit-login" class="btn btn-primary" data-link-action="sign-in" type="submit">
+            Intra in cont
+          </button>
+        
+      </footer>
+    
+
+  </form>
+
+
+      </section>
+      <hr>
+      
+        
+      
+      <div class="no-account">
+        <a href="https://regatuljocurilor.ro/ro/autentificare?create_account=1" data-link-action="display-register-form">
+          Nu ai cont? Creeaza unul acum!
+        </a>
+      </div>
+    
+
+      </section>
+    
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+              
+            </div>
+          
+        </div>
+                </div>
+      </section>
+
+        
+      <footer id="footer">
+        
+          <div class="footer-before parallax-bg header" data-bgurl="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/img/megnor/Parallax.jpg" style="background-image: url(&quot;https://regatuljocurilor.ro/themes/PRSADD279_01/assets/img/megnor/Parallax.jpg&quot;); background-attachment: fixed; background-position: 50% 1806px;">
+    
+      <div class="block_newsletter block col-lg-12 col-md-12 col-sm-12">
+<div class="container">
+
+<h4 class="block_title ">Aboneaza-te la newsletter</h4>
+
+
+  
+
+    <div class="col-md-12 col-xs-12 block_content collapse" id="block_email_toggle">
+    <!-- <p class="text">inregistreaza-te sa primesti un voucher de </p>
+    <p class="text1">* Voucherul este valid numai la o inregistrare noua </p> -->
+      <form action="https://regatuljocurilor.ro/ro/#footer" method="post">
+       
+          <div class="col-xs-12">
+
+              <div class="input-wrapper">
+              <input name="email" type="email" value="" placeholder="Adresa ta de email" aria-labelledby="block-newsletter-label">
+            </div>
+
+
+            <input class="btn btn-primary pull-xs-right hidden-xs-down" name="submitNewsletter" type="submit" value="Aboneaza-te">
+           
+
+            <input class="btn btn-primary pull-xs-right hidden-sm-up" name="submitNewsletter" type="submit" value="OK">
+           
+            <input type="hidden" name="action" value="0">
+            <div class="clearfix"></div>
+          </div>
+          <div class="col-xs-12">
+                              <!-- <p>Te poti dezabona in orice moment. Pentru aceasta te rugam sa folosesti informatiile noastre de contact din nota legala.</p> -->
+                                      </div>
+          </form></div>
+       
+      
+    </div>
+    </div>
+  </div>
+
+
+    
+
+<div class="footer-container">
+  <div class="container">
+    <div class="footer">
+      
+      <div class="block-contact footer-block col-xs-12 col-sm-4 links wrapper">
+  
+   		<h3 class="text-uppercase block-contact-title hidden-md-down"><a href="https://regatuljocurilor.ro/ro/magazine">Contacteaza-ne:</a></h3>
+      
+		<div class="title clearfix hidden-lg-up" data-target="#block-contact_list" data-toggle="collapse">
+		  <span class="h3">Informatii magazin</span>
+		  <span class="pull-xs-right">
+			  <span class="navbar-toggler collapse-icons">
+				<i class="material-icons add"></i>
+				<i class="material-icons remove"></i>
+			  </span>
+		  </span>
+		</div>
+	  
+	  <ul id="block-contact_list" class="collapse">
+	  <li>
+	  	<i class="material-icons"></i>
+	 <span class="contactdiv"> Regatul Jocurilor<br>Soseaua Oltenitei, Nr. 103, Cladirea ICTCM<br>041303 Bucuresti<br>Romania</span>
+	  </li>
+	 
+      	   <li>
+       
+        		<i class="material-icons"></i>
+        <span>(+)40726144156</span>
+		</li>
+                  	  <li>
+       
+        		<i class="material-icons"></i>
+        <a href="mailto:regatuljocurilor@gmail.com" class="dropdown">regatuljocurilor@gmail.com</a>
+		</li>
+      	  </ul>
+  
+</div>
+<div class="col-md-4 links block links hb-animate-element top-to-bottom">
+  <h3 class="h3 hidden-md-down">Produse</h3>
+    <div class="title h3 block_title hidden-lg-up" data-target="#footer_sub_menu_98119" data-toggle="collapse">
+	<span class="">Produse</span>
+	<span class="pull-xs-right">
+	  <span class="navbar-toggler collapse-icons">
+		<i class="material-icons add"></i>
+		<i class="material-icons remove"></i>
+	  </span>
+	</span>
+  </div>
+  <ul id="footer_sub_menu_98119" class="collapse block_content">
+		  <li>
+		<a id="link-product-page-prices-drop-1" class="cms-page-link" href="https://regatuljocurilor.ro/ro/reduceri-de-pret" title="Our special products">
+		  Reduceri de pret
+		</a>
+	  </li>
+		  <li>
+		<a id="link-product-page-new-products-1" class="cms-page-link" href="https://regatuljocurilor.ro/ro/index.php?controller=new-products" title="Cele mai noi dintre produsele noastre">
+		  Produse noi
+		</a>
+	  </li>
+		  <li>
+		<a id="link-product-page-best-sales-1" class="cms-page-link" href="https://regatuljocurilor.ro/ro/cele-mai-cumparate" title="Produsele noastre cele mai cumparate">
+		  Cele mai cumparate
+		</a>
+	  </li>
+	  </ul>
+</div>
+<div class="col-md-4 links block links hb-animate-element top-to-bottom">
+  <h3 class="h3 hidden-md-down">Informatii</h3>
+    <div class="title h3 block_title hidden-lg-up" data-target="#footer_sub_menu_45870" data-toggle="collapse">
+	<span class="">Informatii</span>
+	<span class="pull-xs-right">
+	  <span class="navbar-toggler collapse-icons">
+		<i class="material-icons add"></i>
+		<i class="material-icons remove"></i>
+	  </span>
+	</span>
+  </div>
+  <ul id="footer_sub_menu_45870" class="collapse block_content">
+		  <li>
+		<a id="link-cms-page-1-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/content/livrare-i-plata" title="Termenii și condițiile noaste de livrare">
+		  Livrare și Plată
+		</a>
+	  </li>
+		  <li>
+		<a id="link-cms-page-3-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/content/termeni-si-conditii-de-utilizare" title="Termenii și condițiile noastre de utilizare">
+		  Termeni și condiții de utilizare
+		</a>
+	  </li>
+		  <li>
+		<a id="link-cms-page-4-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/content/despre-noi" title="Aflați mai multe despre noi">
+		  Despre noi
+		</a>
+	  </li>
+		  <li>
+		<a id="link-cms-page-18-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/content/precomenzi" title="">
+		  Precomenzi
+		</a>
+	  </li>
+		  <li>
+		<a id="link-cms-page-16-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/content/fidelizare" title="Program fidelizare clienti">
+		  Fidelizare
+		</a>
+	  </li>
+		  <li>
+		<a id="link-static-page-contact-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/contact" title="Foloseste formularul pentru a ne contacta">
+		  Contacteaza-ne
+		</a>
+	  </li>
+		  <li>
+		<a id="link-static-page-sitemap-2" class="cms-page-link" href="https://regatuljocurilor.ro/ro/harta site" title="Te-ai ratacit? Gaseste ceea ce cauti">
+		  Harta site-ului
+		</a>
+	  </li>
+	  </ul>
+</div>
+<div class="col-md-4 links block links hb-animate-element top-to-bottom">
+  <h3 class="h3 hidden-md-down">Contul tau</h3>
+    <div class="title h3 block_title hidden-lg-up" data-target="#footer_sub_menu_38486" data-toggle="collapse">
+	<span class="">Contul tau</span>
+	<span class="pull-xs-right">
+	  <span class="navbar-toggler collapse-icons">
+		<i class="material-icons add"></i>
+		<i class="material-icons remove"></i>
+	  </span>
+	</span>
+  </div>
+  <ul id="footer_sub_menu_38486" class="collapse block_content">
+		  <li>
+		<a id="link-static-page-authentication-4" class="cms-page-link" href="https://regatuljocurilor.ro/ro/autentificare" title="">
+		  Conecteaza-te
+		</a>
+	  </li>
+		  <li>
+		<a id="link-static-page-my-account-4" class="cms-page-link" href="https://regatuljocurilor.ro/ro/contul-meu" title="">
+		  Contul meu
+		</a>
+	  </li>
+	  </ul>
+</div>
+<section class="ws_modal ws_fade hidden">
+    <div class="ws_modal_backdrop"></div>
+    <div class="ws_modal_dialog">
+        <div class="ws_modal_content">
+            Acest produs a fost adaugat in lista de favorite
+        </div>
+        <button class="ws_modal_close" type="button"><span class="visually-hidden">X</span></button>
+    </div>
+</section>
+<script>
+    
+    function setcook() {
+        var nazwa = 'cookie_tm';
+        var wartosc = '1';
+        var expire = new Date();
+        expire.setMonth(expire.getMonth() + 12);
+        document.cookie = nazwa + "=" + escape(wartosc) + ";path=/;" + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()))
+    }
+
+    
+        
+
+    
+        
+        function closeTmNotify() {
+                        $('#cookieNotice').animate(
+                    {bottom: '-200px'},
+                    2500, function () {
+                        $('#cookieNotice').hide();
+                    });
+            setcook();
+                    }
+    
+        
+    
+</script>
+
+<style>
+    
+
+    #cookieNotice p {
+        margin: 0px;
+        padding: 0px;
+    }
+    button.closeFontAwesome {
+       position: relative;
+        text-transform: capitalize;
+        padding: 5px 30px;
+        background: #000000;
+        color: #FFFFFF;
+        font-size: 15px;
+        font-weight: normal;
+        display: inline-block;
+        vertical-align: middle;
+        margin-top: 10px;
+        letter-spacing: 0.2px;
+        border-radius: 0;
+        line-height: 24px;
+    }
+    button.closeFontAwesome:hover,
+    button.closeFontAwesome:focus {
+        background: #000000;
+        color: #FFFFFF;
+    }
+    
+    button.closeButtonNormal {
+        position: absolute;
+        border: none;
+        padding: 0;
+        top: -27px;
+        right: -27px;        
+        transition: none;
+        white-space: normal;
+        background: transparent;
+    }
+    button.closeButtonNormal .material-icons.close {
+        color: #000000;
+    }
+    button.closeButtonNormal .material-icons.close:hover,
+    button.closeButtonNormal .material-icons.close:focus {
+        color: #000000;
+        opacity: 1;
+    }
+
+    span.cookie_text {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    .cookie_text p a {
+        text-decoration: underline;
+        padding-left: 5px;
+    }
+
+    
+</style>
+<div id="cookieNotice" style=" width: 400px; height: auto; position: fixed; background: #FFFFFF; z-index: 99999; font-size: 14px; letter-spacing: -0.2px;
+bottom:40px;  left: 40px; font-weight:normal; line-height: 24px; text-align:center; color:#222; padding:20px; opacity: 1; box-shadow: 0px 0px 10px 0px rgb( 0, 0, 0, 0.2 ); ">
+
+    <div id="cookieNoticeContent" style="position:relative; margin:auto; width:100%; display:block;">
+            <span class="cookie_text">
+                <p>Acest magazin folosește cookie-uri pentru a vă asigura că aveți cea mai bună experiență pe site-ul nostru.</p>
+            </span>
+            <button class="btn closeFontAwesome" onclick="closeTmNotify()">allow</button>
+    </div>
+</div>	<section class="footer-block col-xs-12 col-xs-2" id="block_maps">
+		<h4>Locatia noastra</h4>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11403.887513023963!2d26.1242896!3d44.392699!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b2b3cdc40410c68!2sRegatul%20Jocurilor!5e0!3m2!1sro!2sro!4v1636497350944!5m2!1sro!2sro" style="border:0" width="100%" height="200" frameborder="0"></iframe>
+	</section>
+    
+  <div class="block-social hb-animate-element left-to-right">
+  <h3 class="h3 hidden-md-down">Urmareste-ne</h3>
+    <ul class="hidden-md-down">
+              <li class="facebook"><a href="https://www.facebook.com/regatul.jocurilor/">Facebook</a></li>
+              <li class="instagram"><a href="https://www.instagram.com/regatuljocurilor/">Instagram</a></li>
+          </ul>
+
+<div class="block hidden-lg-up">
+  <h4 class="block_title hidden-lg-up" data-target="#block_social_toggle" data-toggle="collapse">Urmareste-ne
+    <span class="pull-xs-right">
+      <span class="navbar-toggler collapse-icons">
+      <i class="material-icons add"></i>
+      <i class="material-icons remove"></i>
+      </span>
+    </span>
+  </h4>
+
+<div class="col-md-12 col-xs-12 block_content collapse" id="block_social_toggle">
+ <ul>
+              <li class="facebook"><a href="https://www.facebook.com/regatul.jocurilor/">Facebook</a></li>
+              <li class="instagram"><a href="https://www.instagram.com/regatuljocurilor/">Instagram</a></li>
+          </ul>
+    </div>
+    </div>
+  </div>
+
+
+
+      
+    </div>
+  
+</div>
+  </div>
+
+   <div class="footer-after hb-animate-element bottom-to-top">
+<div class="container">
+  <div id="tmpaymentcmsblock" class="tmpaymentcmsblock container">
+  <div class="payment block_content"><a href="#"><img alt="payment.png" class="lazyload" src="../modules/tm_paymentcmsblock/views/img/payment.png"> </a></div>
+</div>
+
+   <p class="copyright">
+ 
+          <a href="http://www.prestashop.com">
+            © 2022 - Regatul Jocurilor
+          </a>
+          
+        </p>  
+    </div>
+    </div>
+
+<a class="top_button" href="#" style="">&nbsp;</a>
+        
+      </footer>
+
+    </main>
+
+    
+        <script type="text/javascript" src="https://regatuljocurilor.ro/themes/core.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/theme.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/lightbox.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_emailsubscription/views/js/ps_emailsubscription.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/blockreassurance/views/dist/front.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_emailalerts/js/mailalerts.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_facebook/views/js/front/conversion-api.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/tmcouponpop/views/js/tmcouponpop.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/tmcountdown/views/js/jquery.plugin.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/tmcountdown/views/js/jquery.countdown.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/productyoutube/views/js/productyoutube.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/docready.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/jquery.time-to.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/sweetalert2.min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/preorder_product.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/preorder_footer.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/preorderandnotification/views/js/po_common.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/tmajaxsearch/views/js/ajaxsearch.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/productcomments//views/js/jquery.rating.pack.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/productcomments//views/js/jquery.textareaCounter.plugin.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/productcomments//views/js/productcomments.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/hwcrecaptchaspam/views/js/front/recaptcha.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/rc_fancourier//views/js/rc_fancourier_tools.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/rc_fancourier//views/js/select2.full.min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/advansedwishlist//views/js/wishlist-main.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/advansedwishlist//views/js/ws_wl_popup.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/js/jquery/ui/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/js/jquery/plugins/fancybox/jquery.fancybox.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_imageslider/js/responsiveslides.min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_imageslider/js/homeslider.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/tm_imageslider/views/js/jquery.flexslider-min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_shoppingcart/ps_shoppingcart.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/ps_searchbar/ps_searchbar.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/alcashowdiscount/views/js/front.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/modules/alcashowdiscount/views/js/custom.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/owl.carousel.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/totalstorage.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/lazysizes.min.js"></script>
+  <script type="text/javascript" src="https://regatuljocurilor.ro/themes/PRSADD279_01/assets/js/custom.js"></script>
+
+
+    
+
+    
+    
+    
+  
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div><div style="position:fixed;top:20px;"></div><div style="width:50px;height:50px;overflow:auto"><div style="height: 99px;"></div></div></body></html>
